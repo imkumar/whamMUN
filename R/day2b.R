@@ -126,7 +126,14 @@ sel2 <- list(
 )
 
 
-
+sel3 <- list(
+  model = c("age-specific","logistic"), n_selblocks = 2, #age specific mean selectiviy for fleet and index. constant over years
+  fix_pars = list(NULL,NULL), #above will be estimated
+  initial_pars <- list(
+    c(rep(0.5,4),1,0.5,0.5,0.5), #fixed age 5=1
+    c(2,0.2)),
+  map_pars <- list(c(1:4,NA,6,6,6),c(9:10))
+)
 
 # alternative mean models
 # selectivity <- list(model = c("double-logistic", "decreasing-logistic", "logistic"))
@@ -160,8 +167,9 @@ input_all <- set_F(input_all, F_opts)
 
 nofit_all <- fit_wham(input_all, do.fit = FALSE, do.brps = FALSE)
 nofit_all$gr()
+nofit_all $par
 
-fit_all <- fit_wham(input_all, do.retro = FALSE, do.osa = FALSE, do.sdrep = FALSE)
+fit_all <- fit_wham(input_all, do.retro = , do.osa = FALSE, do.sdrep = FALSE)
 fit_all$opt
 fit_all$gr(fit_all$opt$par)|>round(3)
 
@@ -169,5 +177,6 @@ plot_wham_output(fit_all)
 fit_all <- fit_wham(input_all, do.retro = FALSE, do.osa = FALSE, do.sdrep = TRUE)
 fit_all$opt
 fit_all$gr(fit_all$opt$par)|>round(3)
+fit_all <- fit_wham(input_all, do.retro = TRUE, do.osa = TRUE, do.sdrep = TRUE)
 
-
+system.time(fit_all <- fit_wham(input_all, do.retro = FALSE, do.osa = FALSE, do.sdrep = TRUE))

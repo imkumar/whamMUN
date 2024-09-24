@@ -35,11 +35,11 @@ header-includes:
 
 ### Diagnostics
 
-<img src="plots_png/diagnostics/Catch_4panel_fleet_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Fleet_1_region_1_a.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Fleet_1_region_1_b.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_fleet_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1_a.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1_b.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_resids_Fleet_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_resids_Index_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Index_4panel_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/likelihood.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_2.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_3.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_4.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_5.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_6.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_7.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_8.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/summary_text.png" width="720" style="display: block; margin: auto;" />
+<img src="plots_png/diagnostics/Catch_4panel_fleet_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Fleet_1_region_1_a.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Fleet_1_region_1_b.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_fleet_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1_a.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1_b.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_resids_Fleet_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_resids_Index_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Index_4panel_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/likelihood.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_2.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_3.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_4.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_5.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_6.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_7.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_8.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Residuals_time.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/summary_text.png" width="720" style="display: block; margin: auto;" />
 
 ### Results
 
-<img src="plots_png/results/F_byfleet.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/M_at_age_stock_1_.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/MAA_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/NAA_dev_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Numbers_at_age_proportion_stock_1_region_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/Numbers_at_age_stock_1_region_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/q_time_series.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/SelAA_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Selectivity_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Selectivity_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_at_age_proportion_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_at_age_stock_1.png" width="720" style="display: block; margin: auto;" />
+<img src="plots_png/results/CV_SSB_Rec_F.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/F_byfleet.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/M_at_age_stock_1_.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/MAA_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/NAA_dev_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Numbers_at_age_proportion_stock_1_region_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/Numbers_at_age_stock_1_region_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/q_time_series.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/SelAA_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Selectivity_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Selectivity_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_at_age_proportion_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_at_age_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_F_trend.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_Rec_loglog_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_Rec_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_Rec_time_stock_1.png" width="720" style="display: block; margin: auto;" />
 
 ### Retro
 
@@ -47,7 +47,7 @@ header-includes:
 
 ### Reference points
 
-<img src="plots_png/ref_points/FSPR_annual_time.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_freq_annual_F.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_freq_annual_YPR.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/SPR_targets_ave_plot.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/ref_points/SPR_targets_ave_table.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/ref_points/YPR_F_curve_plot.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/YPR_F_curve_table.png" width="1440" style="display: block; margin: auto;" />
+<img src="plots_png/ref_points/FSPR_absolute.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_annual_time.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_freq_annual_F.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_freq_annual_YPR.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_relative.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/Kobe_status.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/SPR_targets_ave_plot.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/ref_points/SPR_targets_ave_table.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/ref_points/YPR_F_curve_plot.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/YPR_F_curve_table.png" width="1440" style="display: block; margin: auto;" />
 
 ### Miscellaneous
 
@@ -72,100 +72,100 @@ header-includes:
   <tr>
    <td style="text-align:left;"> Index 1 fully selected q </td>
    <td style="text-align:right;"> $2.418$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.281$ </td>
+   <td style="text-align:right;"> $1.926$ </td>
+   <td style="text-align:right;"> $3.035$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 1 </td>
    <td style="text-align:right;"> $1.049\times 10^{-5}$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $1.026\times 10^{-5}$ </td>
+   <td style="text-align:right;"> $1.542\times 10^{-6}$ </td>
+   <td style="text-align:right;"> $7.138\times 10^{-5}$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 2 </td>
    <td style="text-align:right;"> $0.002$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $9.116\times 10^{-4}$ </td>
+   <td style="text-align:right;"> $5.338\times 10^{-4}$ </td>
+   <td style="text-align:right;"> $0.005$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 3 </td>
    <td style="text-align:right;"> $0.017$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.009$ </td>
+   <td style="text-align:right;"> $0.006$ </td>
+   <td style="text-align:right;"> $0.047$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 4 </td>
    <td style="text-align:right;"> $0.027$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.014$ </td>
+   <td style="text-align:right;"> $0.010$ </td>
+   <td style="text-align:right;"> $0.072$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 5 </td>
    <td style="text-align:right;"> $0.041$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.021$ </td>
+   <td style="text-align:right;"> $0.015$ </td>
+   <td style="text-align:right;"> $0.107$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 6 </td>
    <td style="text-align:right;"> $0.055$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.028$ </td>
+   <td style="text-align:right;"> $0.020$ </td>
+   <td style="text-align:right;"> $0.141$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 7 </td>
    <td style="text-align:right;"> $0.055$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.028$ </td>
+   <td style="text-align:right;"> $0.019$ </td>
+   <td style="text-align:right;"> $0.145$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 8+ </td>
    <td style="text-align:right;"> $0.037$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.021$ </td>
+   <td style="text-align:right;"> $0.012$ </td>
+   <td style="text-align:right;"> $0.110$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 2: Index 1 $a_{50}$ </td>
    <td style="text-align:right;"> $1.132$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.216$ </td>
+   <td style="text-align:right;"> $0.771$ </td>
+   <td style="text-align:right;"> $1.624$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 2: Index 1 1/slope (increasing) </td>
    <td style="text-align:right;"> $0.884$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.280$ </td>
+   <td style="text-align:right;"> $0.466$ </td>
+   <td style="text-align:right;"> $1.598$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Selectivity RE $\sigma$ </td>
    <td style="text-align:right;"> $0.880$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.081$ </td>
+   <td style="text-align:right;"> $0.736$ </td>
+   <td style="text-align:right;"> $1.054$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Selectivity RE AR1 $\rho$ (age) </td>
    <td style="text-align:right;"> $0.825$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.044$ </td>
+   <td style="text-align:right;"> $0.717$ </td>
+   <td style="text-align:right;"> $0.894$ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 1: Fleet 1 Selectivity RE AR1 $\rho$ (year) </td>
    <td style="text-align:right;"> $0.493$ </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
-   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> $0.101$ </td>
+   <td style="text-align:right;"> $0.271$ </td>
+   <td style="text-align:right;"> $0.666$ </td>
   </tr>
 </tbody>
 </table>
