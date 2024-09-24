@@ -35,11 +35,11 @@ header-includes:
 
 ### Diagnostics
 
-<img src="plots_png/diagnostics/Catch_4panel_fleet_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Fleet_1_region_1_a.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Fleet_1_region_1_b.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_fleet_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1_a.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1_b.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_resids_Fleet_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_resids_Index_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Index_4panel_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/likelihood.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_2.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_3.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_4.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_5.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_6.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_7.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_8.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Residuals_time.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/summary_text.png" width="720" style="display: block; margin: auto;" />
+<img src="plots_png/diagnostics/Catch_4panel_fleet_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Fleet_1_region_1_a.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Fleet_1_region_1_b.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_fleet_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1_a.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_Index_1_region_1_b.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_resids_Fleet_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Catch_age_comp_resids_Index_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/Index_4panel_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/likelihood.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_2.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_3.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_4.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_5.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_6.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_7.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/NAA_4panel_stock_1_region_1_age_8.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/diagnostics/summary_text.png" width="720" style="display: block; margin: auto;" />
 
 ### Results
 
-<img src="plots_png/results/CV_SSB_Rec_F.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/F_byfleet.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/M_at_age_stock_1_.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/MAA_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/NAA_dev_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Numbers_at_age_proportion_stock_1_region_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/Numbers_at_age_stock_1_region_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/q_time_series.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/SelAA_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Selectivity_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Selectivity_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_at_age_proportion_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_at_age_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_F_trend.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_Rec_loglog_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_Rec_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_Rec_time_stock_1.png" width="720" style="display: block; margin: auto;" />
+<img src="plots_png/results/F_byfleet.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/M_at_age_stock_1_.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/MAA_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/NAA_dev_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Numbers_at_age_proportion_stock_1_region_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/Numbers_at_age_stock_1_region_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/q_time_series.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/SelAA_tile.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Selectivity_Fleet_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/Selectivity_Index_1_region_1.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_at_age_proportion_stock_1.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/results/SSB_at_age_stock_1.png" width="720" style="display: block; margin: auto;" />
 
 ### Retro
 
@@ -47,7 +47,7 @@ header-includes:
 
 ### Reference points
 
-<img src="plots_png/ref_points/FSPR_absolute.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_annual_time.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_freq_annual_F.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_freq_annual_YPR.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_relative.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/Kobe_status.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/SPR_targets_ave_plot.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/ref_points/SPR_targets_ave_table.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/ref_points/YPR_F_curve_plot.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/YPR_F_curve_table.png" width="1440" style="display: block; margin: auto;" />
+<img src="plots_png/ref_points/FSPR_annual_time.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_freq_annual_F.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/FSPR_freq_annual_YPR.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/SPR_targets_ave_plot.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/ref_points/SPR_targets_ave_table.png" width="720" style="display: block; margin: auto;" /><img src="plots_png/ref_points/YPR_F_curve_plot.png" width="1440" style="display: block; margin: auto;" /><img src="plots_png/ref_points/YPR_F_curve_table.png" width="1440" style="display: block; margin: auto;" />
 
 ### Miscellaneous
 
@@ -71,49 +71,98 @@ header-includes:
 <tbody>
   <tr>
    <td style="text-align:left;"> Index 1 fully selected q </td>
-   <td style="text-align:right;"> $2.043$ </td>
+   <td style="text-align:right;"> $2.418$ </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Block 1: Fleet 1 $a_{50}$ </td>
-   <td style="text-align:right;"> $2.191$ </td>
+   <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 1 </td>
+   <td style="text-align:right;"> $1.049\times 10^{-5}$ </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Block 1: Fleet 1 1/slope (increasing) </td>
-   <td style="text-align:right;"> $0.118$ </td>
+   <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 2 </td>
+   <td style="text-align:right;"> $0.002$ </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 3 </td>
+   <td style="text-align:right;"> $0.017$ </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 4 </td>
+   <td style="text-align:right;"> $0.027$ </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 5 </td>
+   <td style="text-align:right;"> $0.041$ </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 6 </td>
+   <td style="text-align:right;"> $0.055$ </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 7 </td>
+   <td style="text-align:right;"> $0.055$ </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Block 1: Fleet 1 Mean Selectivity for age 8+ </td>
+   <td style="text-align:right;"> $0.037$ </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 2: Index 1 $a_{50}$ </td>
-   <td style="text-align:right;"> $0.513$ </td>
+   <td style="text-align:right;"> $1.132$ </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Block 2: Index 1 1/slope (increasing) </td>
-   <td style="text-align:right;"> $0.456$ </td>
+   <td style="text-align:right;"> $0.884$ </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Block 3: Fleet 1 $a_{50}$ </td>
-   <td style="text-align:right;"> $3.372$ </td>
+   <td style="text-align:left;"> Block 1: Fleet 1 Selectivity RE $\sigma$ </td>
+   <td style="text-align:right;"> $0.880$ </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Block 3: Fleet 1 1/slope (increasing) </td>
-   <td style="text-align:right;"> $0.492$ </td>
+   <td style="text-align:left;"> Block 1: Fleet 1 Selectivity RE AR1 $\rho$ (age) </td>
+   <td style="text-align:right;"> $0.825$ </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+   <td style="text-align:right;"> -- </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Block 1: Fleet 1 Selectivity RE AR1 $\rho$ (year) </td>
+   <td style="text-align:right;"> $0.493$ </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
    <td style="text-align:right;"> -- </td>
@@ -141,388 +190,388 @@ header-includes:
 <tbody>
   <tr>
    <td style="text-align:left;"> 1988 </td>
-   <td style="text-align:right;"> 25892 </td>
-   <td style="text-align:right;"> 25891 </td>
-   <td style="text-align:right;"> 24455 </td>
-   <td style="text-align:right;"> 17331 </td>
-   <td style="text-align:right;"> 12277 </td>
-   <td style="text-align:right;"> 6226 </td>
-   <td style="text-align:right;"> 3157 </td>
-   <td style="text-align:right;"> 3247 </td>
+   <td style="text-align:right;"> 65406 </td>
+   <td style="text-align:right;"> 53526 </td>
+   <td style="text-align:right;"> 39801 </td>
+   <td style="text-align:right;"> 26143 </td>
+   <td style="text-align:right;"> 12627 </td>
+   <td style="text-align:right;"> 2631 </td>
+   <td style="text-align:right;"> 392 </td>
+   <td style="text-align:right;"> 125 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1989 </td>
-   <td style="text-align:right;"> 11951 </td>
-   <td style="text-align:right;"> 25891 </td>
-   <td style="text-align:right;"> 24655 </td>
-   <td style="text-align:right;"> 18203 </td>
-   <td style="text-align:right;"> 12896 </td>
-   <td style="text-align:right;"> 6539 </td>
-   <td style="text-align:right;"> 3316 </td>
-   <td style="text-align:right;"> 3411 </td>
+   <td style="text-align:right;"> 18557 </td>
+   <td style="text-align:right;"> 53536 </td>
+   <td style="text-align:right;"> 41368 </td>
+   <td style="text-align:right;"> 28557 </td>
+   <td style="text-align:right;"> 15602 </td>
+   <td style="text-align:right;"> 4554 </td>
+   <td style="text-align:right;"> 777 </td>
+   <td style="text-align:right;"> 202 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1990 </td>
-   <td style="text-align:right;"> 10347 </td>
-   <td style="text-align:right;"> 11951 </td>
-   <td style="text-align:right;"> 23733 </td>
-   <td style="text-align:right;"> 14580 </td>
-   <td style="text-align:right;"> 10759 </td>
-   <td style="text-align:right;"> 5456 </td>
-   <td style="text-align:right;"> 2766 </td>
-   <td style="text-align:right;"> 2846 </td>
+   <td style="text-align:right;"> 16375 </td>
+   <td style="text-align:right;"> 15115 </td>
+   <td style="text-align:right;"> 9430 </td>
+   <td style="text-align:right;"> 22410 </td>
+   <td style="text-align:right;"> 15552 </td>
+   <td style="text-align:right;"> 4297 </td>
+   <td style="text-align:right;"> 825 </td>
+   <td style="text-align:right;"> 273 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1991 </td>
-   <td style="text-align:right;"> 47610 </td>
-   <td style="text-align:right;"> 10346 </td>
-   <td style="text-align:right;"> 10184 </td>
-   <td style="text-align:right;"> 9037 </td>
-   <td style="text-align:right;"> 5546 </td>
-   <td style="text-align:right;"> 2930 </td>
-   <td style="text-align:right;"> 1486 </td>
-   <td style="text-align:right;"> 1528 </td>
+   <td style="text-align:right;"> 75349 </td>
+   <td style="text-align:right;"> 13404 </td>
+   <td style="text-align:right;"> 11728 </td>
+   <td style="text-align:right;"> 5531 </td>
+   <td style="text-align:right;"> 6615 </td>
+   <td style="text-align:right;"> 3779 </td>
+   <td style="text-align:right;"> 1128 </td>
+   <td style="text-align:right;"> 376 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1992 </td>
-   <td style="text-align:right;"> 41195 </td>
-   <td style="text-align:right;"> 47607 </td>
-   <td style="text-align:right;"> 9497 </td>
-   <td style="text-align:right;"> 6077 </td>
-   <td style="text-align:right;"> 5390 </td>
-   <td style="text-align:right;"> 2368 </td>
-   <td style="text-align:right;"> 1251 </td>
-   <td style="text-align:right;"> 1287 </td>
+   <td style="text-align:right;"> 81998 </td>
+   <td style="text-align:right;"> 61679 </td>
+   <td style="text-align:right;"> 10445 </td>
+   <td style="text-align:right;"> 5430 </td>
+   <td style="text-align:right;"> 2757 </td>
+   <td style="text-align:right;"> 2736 </td>
+   <td style="text-align:right;"> 1571 </td>
+   <td style="text-align:right;"> 764 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1993 </td>
-   <td style="text-align:right;"> 1926 </td>
-   <td style="text-align:right;"> 41191 </td>
-   <td style="text-align:right;"> 35735 </td>
-   <td style="text-align:right;"> 1682 </td>
-   <td style="text-align:right;"> 1075 </td>
-   <td style="text-align:right;"> 682 </td>
-   <td style="text-align:right;"> 300 </td>
-   <td style="text-align:right;"> 321 </td>
+   <td style="text-align:right;"> 1482 </td>
+   <td style="text-align:right;"> 67076 </td>
+   <td style="text-align:right;"> 37323 </td>
+   <td style="text-align:right;"> 1586 </td>
+   <td style="text-align:right;"> 653 </td>
+   <td style="text-align:right;"> 190 </td>
+   <td style="text-align:right;"> 186 </td>
+   <td style="text-align:right;"> 297 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1994 </td>
-   <td style="text-align:right;"> 4871 </td>
-   <td style="text-align:right;"> 1926 </td>
-   <td style="text-align:right;"> 35394 </td>
-   <td style="text-align:right;"> 14309 </td>
-   <td style="text-align:right;"> 673 </td>
-   <td style="text-align:right;"> 308 </td>
-   <td style="text-align:right;"> 195 </td>
-   <td style="text-align:right;"> 178 </td>
+   <td style="text-align:right;"> 7240 </td>
+   <td style="text-align:right;"> 1213 </td>
+   <td style="text-align:right;"> 46143 </td>
+   <td style="text-align:right;"> 9410 </td>
+   <td style="text-align:right;"> 738 </td>
+   <td style="text-align:right;"> 303 </td>
+   <td style="text-align:right;"> 79 </td>
+   <td style="text-align:right;"> 246 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1995 </td>
-   <td style="text-align:right;"> 1790 </td>
-   <td style="text-align:right;"> 4870 </td>
-   <td style="text-align:right;"> 1468 </td>
-   <td style="text-align:right;"> 6867 </td>
-   <td style="text-align:right;"> 2772 </td>
-   <td style="text-align:right;"> 93 </td>
-   <td style="text-align:right;"> 43 </td>
-   <td style="text-align:right;"> 52 </td>
+   <td style="text-align:right;"> 2704 </td>
+   <td style="text-align:right;"> 5925 </td>
+   <td style="text-align:right;"> 873 </td>
+   <td style="text-align:right;"> 6206 </td>
+   <td style="text-align:right;"> 2353 </td>
+   <td style="text-align:right;"> 315 </td>
+   <td style="text-align:right;"> 105 </td>
+   <td style="text-align:right;"> 151 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1996 </td>
-   <td style="text-align:right;"> 57 </td>
-   <td style="text-align:right;"> 1790 </td>
-   <td style="text-align:right;"> 3553 </td>
-   <td style="text-align:right;"> 219 </td>
-   <td style="text-align:right;"> 1022 </td>
-   <td style="text-align:right;"> 295 </td>
+   <td style="text-align:right;"> 100 </td>
+   <td style="text-align:right;"> 2214 </td>
+   <td style="text-align:right;"> 4777 </td>
+   <td style="text-align:right;"> 430 </td>
+   <td style="text-align:right;"> 857 </td>
+   <td style="text-align:right;"> 158 </td>
    <td style="text-align:right;"> 10 </td>
-   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:right;"> 13 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1997 </td>
-   <td style="text-align:right;"> 47 </td>
-   <td style="text-align:right;"> 57 </td>
-   <td style="text-align:right;"> 1597 </td>
-   <td style="text-align:right;"> 1782 </td>
-   <td style="text-align:right;"> 110 </td>
-   <td style="text-align:right;"> 367 </td>
-   <td style="text-align:right;"> 106 </td>
+   <td style="text-align:right;"> 101 </td>
+   <td style="text-align:right;"> 82 </td>
+   <td style="text-align:right;"> 1764 </td>
+   <td style="text-align:right;"> 1909 </td>
+   <td style="text-align:right;"> 215 </td>
+   <td style="text-align:right;"> 427 </td>
+   <td style="text-align:right;"> 52 </td>
    <td style="text-align:right;"> 7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1998 </td>
-   <td style="text-align:right;"> 140 </td>
-   <td style="text-align:right;"> 47 </td>
-   <td style="text-align:right;"> 46 </td>
-   <td style="text-align:right;"> 433 </td>
-   <td style="text-align:right;"> 483 </td>
-   <td style="text-align:right;"> 21 </td>
-   <td style="text-align:right;"> 71 </td>
-   <td style="text-align:right;"> 22 </td>
+   <td style="text-align:right;"> 189 </td>
+   <td style="text-align:right;"> 83 </td>
+   <td style="text-align:right;"> 65 </td>
+   <td style="text-align:right;"> 578 </td>
+   <td style="text-align:right;"> 597 </td>
+   <td style="text-align:right;"> 44 </td>
+   <td style="text-align:right;"> 40 </td>
+   <td style="text-align:right;"> 5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1999 </td>
-   <td style="text-align:right;"> 2 </td>
-   <td style="text-align:right;"> 140 </td>
-   <td style="text-align:right;"> 41 </td>
-   <td style="text-align:right;"> 20 </td>
-   <td style="text-align:right;"> 188 </td>
-   <td style="text-align:right;"> 150 </td>
-   <td style="text-align:right;"> 7 </td>
-   <td style="text-align:right;"> 29 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 155 </td>
+   <td style="text-align:right;"> 67 </td>
+   <td style="text-align:right;"> 43 </td>
+   <td style="text-align:right;"> 318 </td>
+   <td style="text-align:right;"> 215 </td>
+   <td style="text-align:right;"> 11 </td>
+   <td style="text-align:right;"> 13 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2000 </td>
-   <td style="text-align:right;"> 478 </td>
-   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 592 </td>
+   <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> 126 </td>
-   <td style="text-align:right;"> 22 </td>
-   <td style="text-align:right;"> 11 </td>
-   <td style="text-align:right;"> 72 </td>
-   <td style="text-align:right;"> 57 </td>
-   <td style="text-align:right;"> 14 </td>
+   <td style="text-align:right;"> 42 </td>
+   <td style="text-align:right;"> 25 </td>
+   <td style="text-align:right;"> 178 </td>
+   <td style="text-align:right;"> 121 </td>
+   <td style="text-align:right;"> 16 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2001 </td>
-   <td style="text-align:right;"> 408 </td>
-   <td style="text-align:right;"> 478 </td>
+   <td style="text-align:right;"> 439 </td>
+   <td style="text-align:right;"> 484 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 113 </td>
+   <td style="text-align:right;"> 62 </td>
+   <td style="text-align:right;"> 33 </td>
    <td style="text-align:right;"> 20 </td>
-   <td style="text-align:right;"> 7 </td>
-   <td style="text-align:right;"> 46 </td>
-   <td style="text-align:right;"> 46 </td>
+   <td style="text-align:right;"> 142 </td>
+   <td style="text-align:right;"> 111 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2002 </td>
-   <td style="text-align:right;"> 44 </td>
-   <td style="text-align:right;"> 408 </td>
-   <td style="text-align:right;"> 473 </td>
+   <td style="text-align:right;"> 42 </td>
+   <td style="text-align:right;"> 359 </td>
+   <td style="text-align:right;"> 388 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 107 </td>
-   <td style="text-align:right;"> 13 </td>
-   <td style="text-align:right;"> 5 </td>
-   <td style="text-align:right;"> 62 </td>
+   <td style="text-align:right;"> 47 </td>
+   <td style="text-align:right;"> 25 </td>
+   <td style="text-align:right;"> 16 </td>
+   <td style="text-align:right;"> 204 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2003 </td>
-   <td style="text-align:right;"> 1374 </td>
-   <td style="text-align:right;"> 44 </td>
-   <td style="text-align:right;"> 407 </td>
-   <td style="text-align:right;"> 467 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 73 </td>
-   <td style="text-align:right;"> 9 </td>
-   <td style="text-align:right;"> 46 </td>
+   <td style="text-align:right;"> 1463 </td>
+   <td style="text-align:right;"> 35 </td>
+   <td style="text-align:right;"> 293 </td>
+   <td style="text-align:right;"> 308 </td>
+   <td style="text-align:right;"> 0 </td>
+   <td style="text-align:right;"> 37 </td>
+   <td style="text-align:right;"> 20 </td>
+   <td style="text-align:right;"> 178 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2004 </td>
-   <td style="text-align:right;"> 284 </td>
-   <td style="text-align:right;"> 1373 </td>
-   <td style="text-align:right;"> 44 </td>
-   <td style="text-align:right;"> 405 </td>
-   <td style="text-align:right;"> 462 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 52 </td>
-   <td style="text-align:right;"> 39 </td>
+   <td style="text-align:right;"> 163 </td>
+   <td style="text-align:right;"> 1198 </td>
+   <td style="text-align:right;"> 28 </td>
+   <td style="text-align:right;"> 237 </td>
+   <td style="text-align:right;"> 249 </td>
+   <td style="text-align:right;"> 0 </td>
+   <td style="text-align:right;"> 30 </td>
+   <td style="text-align:right;"> 161 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2005 </td>
-   <td style="text-align:right;"> 3693 </td>
-   <td style="text-align:right;"> 284 </td>
-   <td style="text-align:right;"> 1373 </td>
-   <td style="text-align:right;"> 44 </td>
-   <td style="text-align:right;"> 404 </td>
-   <td style="text-align:right;"> 330 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 65 </td>
+   <td style="text-align:right;"> 4891 </td>
+   <td style="text-align:right;"> 134 </td>
+   <td style="text-align:right;"> 980 </td>
+   <td style="text-align:right;"> 23 </td>
+   <td style="text-align:right;"> 194 </td>
+   <td style="text-align:right;"> 204 </td>
+   <td style="text-align:right;"> 0 </td>
+   <td style="text-align:right;"> 156 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2006 </td>
-   <td style="text-align:right;"> 7160 </td>
-   <td style="text-align:right;"> 3693 </td>
-   <td style="text-align:right;"> 283 </td>
-   <td style="text-align:right;"> 1371 </td>
-   <td style="text-align:right;"> 44 </td>
-   <td style="text-align:right;"> 288 </td>
-   <td style="text-align:right;"> 235 </td>
-   <td style="text-align:right;"> 47 </td>
+   <td style="text-align:right;"> 13849 </td>
+   <td style="text-align:right;"> 4004 </td>
+   <td style="text-align:right;"> 110 </td>
+   <td style="text-align:right;"> 798 </td>
+   <td style="text-align:right;"> 19 </td>
+   <td style="text-align:right;"> 158 </td>
+   <td style="text-align:right;"> 166 </td>
+   <td style="text-align:right;"> 128 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2007 </td>
-   <td style="text-align:right;"> 6977 </td>
-   <td style="text-align:right;"> 7156 </td>
-   <td style="text-align:right;"> 3680 </td>
-   <td style="text-align:right;"> 278 </td>
-   <td style="text-align:right;"> 1308 </td>
-   <td style="text-align:right;"> 30 </td>
-   <td style="text-align:right;"> 194 </td>
-   <td style="text-align:right;"> 190 </td>
+   <td style="text-align:right;"> 10219 </td>
+   <td style="text-align:right;"> 11338 </td>
+   <td style="text-align:right;"> 3258 </td>
+   <td style="text-align:right;"> 74 </td>
+   <td style="text-align:right;"> 576 </td>
+   <td style="text-align:right;"> 14 </td>
+   <td style="text-align:right;"> 120 </td>
+   <td style="text-align:right;"> 236 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2008 </td>
-   <td style="text-align:right;"> 9409 </td>
-   <td style="text-align:right;"> 6975 </td>
-   <td style="text-align:right;"> 7143 </td>
-   <td style="text-align:right;"> 3641 </td>
-   <td style="text-align:right;"> 271 </td>
-   <td style="text-align:right;"> 907 </td>
-   <td style="text-align:right;"> 21 </td>
-   <td style="text-align:right;"> 266 </td>
+   <td style="text-align:right;"> 10781 </td>
+   <td style="text-align:right;"> 8367 </td>
+   <td style="text-align:right;"> 9280 </td>
+   <td style="text-align:right;"> 2637 </td>
+   <td style="text-align:right;"> 59 </td>
+   <td style="text-align:right;"> 445 </td>
+   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:right;"> 274 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2009 </td>
-   <td style="text-align:right;"> 9552 </td>
-   <td style="text-align:right;"> 9405 </td>
-   <td style="text-align:right;"> 6955 </td>
-   <td style="text-align:right;"> 7033 </td>
-   <td style="text-align:right;"> 3507 </td>
-   <td style="text-align:right;"> 185 </td>
-   <td style="text-align:right;"> 619 </td>
-   <td style="text-align:right;"> 195 </td>
+   <td style="text-align:right;"> 13798 </td>
+   <td style="text-align:right;"> 8827 </td>
+   <td style="text-align:right;"> 6839 </td>
+   <td style="text-align:right;"> 7450 </td>
+   <td style="text-align:right;"> 2069 </td>
+   <td style="text-align:right;"> 45 </td>
+   <td style="text-align:right;"> 326 </td>
+   <td style="text-align:right;"> 220 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2010 </td>
-   <td style="text-align:right;"> 19376 </td>
-   <td style="text-align:right;"> 9549 </td>
-   <td style="text-align:right;"> 9383 </td>
-   <td style="text-align:right;"> 6869 </td>
-   <td style="text-align:right;"> 6822 </td>
-   <td style="text-align:right;"> 2417 </td>
-   <td style="text-align:right;"> 127 </td>
-   <td style="text-align:right;"> 560 </td>
+   <td style="text-align:right;"> 29061 </td>
+   <td style="text-align:right;"> 11296 </td>
+   <td style="text-align:right;"> 7209 </td>
+   <td style="text-align:right;"> 5546 </td>
+   <td style="text-align:right;"> 5909 </td>
+   <td style="text-align:right;"> 1600 </td>
+   <td style="text-align:right;"> 34 </td>
+   <td style="text-align:right;"> 413 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2011 </td>
-   <td style="text-align:right;"> 28900 </td>
-   <td style="text-align:right;"> 19340 </td>
-   <td style="text-align:right;"> 9424 </td>
-   <td style="text-align:right;"> 8723 </td>
-   <td style="text-align:right;"> 5745 </td>
-   <td style="text-align:right;"> 3917 </td>
-   <td style="text-align:right;"> 1378 </td>
-   <td style="text-align:right;"> 392 </td>
+   <td style="text-align:right;"> 42219 </td>
+   <td style="text-align:right;"> 23784 </td>
+   <td style="text-align:right;"> 8882 </td>
+   <td style="text-align:right;"> 4957 </td>
+   <td style="text-align:right;"> 3349 </td>
+   <td style="text-align:right;"> 4053 </td>
+   <td style="text-align:right;"> 974 </td>
+   <td style="text-align:right;"> 283 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2012 </td>
-   <td style="text-align:right;"> 21990 </td>
-   <td style="text-align:right;"> 28830 </td>
-   <td style="text-align:right;"> 19007 </td>
-   <td style="text-align:right;"> 8562 </td>
-   <td style="text-align:right;"> 6897 </td>
-   <td style="text-align:right;"> 3078 </td>
-   <td style="text-align:right;"> 2079 </td>
-   <td style="text-align:right;"> 938 </td>
+   <td style="text-align:right;"> 35581 </td>
+   <td style="text-align:right;"> 34558 </td>
+   <td style="text-align:right;"> 19042 </td>
+   <td style="text-align:right;"> 6540 </td>
+   <td style="text-align:right;"> 3503 </td>
+   <td style="text-align:right;"> 2148 </td>
+   <td style="text-align:right;"> 1700 </td>
+   <td style="text-align:right;"> 665 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2013 </td>
-   <td style="text-align:right;"> 4205 </td>
-   <td style="text-align:right;"> 21947 </td>
-   <td style="text-align:right;"> 28422 </td>
-   <td style="text-align:right;"> 17568 </td>
-   <td style="text-align:right;"> 7061 </td>
-   <td style="text-align:right;"> 3892 </td>
-   <td style="text-align:right;"> 1724 </td>
-   <td style="text-align:right;"> 1688 </td>
+   <td style="text-align:right;"> 5085 </td>
+   <td style="text-align:right;"> 29125 </td>
+   <td style="text-align:right;"> 27909 </td>
+   <td style="text-align:right;"> 14205 </td>
+   <td style="text-align:right;"> 4635 </td>
+   <td style="text-align:right;"> 2058 </td>
+   <td style="text-align:right;"> 1122 </td>
+   <td style="text-align:right;"> 1293 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2014 </td>
-   <td style="text-align:right;"> 14266 </td>
-   <td style="text-align:right;"> 4197 </td>
-   <td style="text-align:right;"> 21664 </td>
-   <td style="text-align:right;"> 26458 </td>
-   <td style="text-align:right;"> 14742 </td>
-   <td style="text-align:right;"> 4071 </td>
-   <td style="text-align:right;"> 2229 </td>
-   <td style="text-align:right;"> 1952 </td>
+   <td style="text-align:right;"> 15308 </td>
+   <td style="text-align:right;"> 4162 </td>
+   <td style="text-align:right;"> 23272 </td>
+   <td style="text-align:right;"> 19216 </td>
+   <td style="text-align:right;"> 10535 </td>
+   <td style="text-align:right;"> 2933 </td>
+   <td style="text-align:right;"> 1112 </td>
+   <td style="text-align:right;"> 1273 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2015 </td>
-   <td style="text-align:right;"> 6944 </td>
-   <td style="text-align:right;"> 14243 </td>
-   <td style="text-align:right;"> 4150 </td>
-   <td style="text-align:right;"> 20354 </td>
-   <td style="text-align:right;"> 22712 </td>
-   <td style="text-align:right;"> 8741 </td>
-   <td style="text-align:right;"> 2399 </td>
-   <td style="text-align:right;"> 2462 </td>
+   <td style="text-align:right;"> 7611 </td>
+   <td style="text-align:right;"> 12533 </td>
+   <td style="text-align:right;"> 3388 </td>
+   <td style="text-align:right;"> 18141 </td>
+   <td style="text-align:right;"> 12137 </td>
+   <td style="text-align:right;"> 7266 </td>
+   <td style="text-align:right;"> 1667 </td>
+   <td style="text-align:right;"> 1261 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2016 </td>
-   <td style="text-align:right;"> 2156 </td>
-   <td style="text-align:right;"> 6932 </td>
-   <td style="text-align:right;"> 14072 </td>
-   <td style="text-align:right;"> 3882 </td>
-   <td style="text-align:right;"> 17282 </td>
-   <td style="text-align:right;"> 13285 </td>
-   <td style="text-align:right;"> 5080 </td>
-   <td style="text-align:right;"> 2823 </td>
+   <td style="text-align:right;"> 2536 </td>
+   <td style="text-align:right;"> 6231 </td>
+   <td style="text-align:right;"> 10168 </td>
+   <td style="text-align:right;"> 2497 </td>
+   <td style="text-align:right;"> 13083 </td>
+   <td style="text-align:right;"> 8422 </td>
+   <td style="text-align:right;"> 3639 </td>
+   <td style="text-align:right;"> 1456 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2017 </td>
-   <td style="text-align:right;"> 5302 </td>
-   <td style="text-align:right;"> 2152 </td>
-   <td style="text-align:right;"> 6851 </td>
-   <td style="text-align:right;"> 13187 </td>
-   <td style="text-align:right;"> 3311 </td>
-   <td style="text-align:right;"> 10168 </td>
-   <td style="text-align:right;"> 7768 </td>
-   <td style="text-align:right;"> 4617 </td>
+   <td style="text-align:right;"> 7825 </td>
+   <td style="text-align:right;"> 2076 </td>
+   <td style="text-align:right;"> 5059 </td>
+   <td style="text-align:right;"> 7469 </td>
+   <td style="text-align:right;"> 1461 </td>
+   <td style="text-align:right;"> 8849 </td>
+   <td style="text-align:right;"> 5616 </td>
+   <td style="text-align:right;"> 2660 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2018 </td>
-   <td style="text-align:right;"> 3790 </td>
-   <td style="text-align:right;"> 5292 </td>
-   <td style="text-align:right;"> 2124 </td>
-   <td style="text-align:right;"> 6369 </td>
-   <td style="text-align:right;"> 11028 </td>
-   <td style="text-align:right;"> 1901 </td>
-   <td style="text-align:right;"> 5796 </td>
-   <td style="text-align:right;"> 7053 </td>
+   <td style="text-align:right;"> 6963 </td>
+   <td style="text-align:right;"> 6407 </td>
+   <td style="text-align:right;"> 1694 </td>
+   <td style="text-align:right;"> 3994 </td>
+   <td style="text-align:right;"> 5638 </td>
+   <td style="text-align:right;"> 1020 </td>
+   <td style="text-align:right;"> 5044 </td>
+   <td style="text-align:right;"> 4403 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2019 </td>
-   <td style="text-align:right;"> 5635 </td>
-   <td style="text-align:right;"> 3784 </td>
-   <td style="text-align:right;"> 5229 </td>
-   <td style="text-align:right;"> 1988 </td>
-   <td style="text-align:right;"> 5416 </td>
-   <td style="text-align:right;"> 6464 </td>
-   <td style="text-align:right;"> 1107 </td>
-   <td style="text-align:right;"> 7477 </td>
+   <td style="text-align:right;"> 11212 </td>
+   <td style="text-align:right;"> 5701 </td>
+   <td style="text-align:right;"> 5233 </td>
+   <td style="text-align:right;"> 1349 </td>
+   <td style="text-align:right;"> 3124 </td>
+   <td style="text-align:right;"> 4108 </td>
+   <td style="text-align:right;"> 557 </td>
+   <td style="text-align:right;"> 4872 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2020 </td>
-   <td style="text-align:right;"> 2792 </td>
-   <td style="text-align:right;"> 5616 </td>
-   <td style="text-align:right;"> 3694 </td>
-   <td style="text-align:right;"> 4584 </td>
-   <td style="text-align:right;"> 1440 </td>
-   <td style="text-align:right;"> 2604 </td>
-   <td style="text-align:right;"> 3068 </td>
-   <td style="text-align:right;"> 4067 </td>
+   <td style="text-align:right;"> 6703 </td>
+   <td style="text-align:right;"> 9179 </td>
+   <td style="text-align:right;"> 4642 </td>
+   <td style="text-align:right;"> 3822 </td>
+   <td style="text-align:right;"> 910 </td>
+   <td style="text-align:right;"> 1312 </td>
+   <td style="text-align:right;"> 1300 </td>
+   <td style="text-align:right;"> 2238 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2021 </td>
-   <td style="text-align:right;"> 5548 </td>
-   <td style="text-align:right;"> 2787 </td>
-   <td style="text-align:right;"> 5537 </td>
-   <td style="text-align:right;"> 3417 </td>
-   <td style="text-align:right;"> 3785 </td>
-   <td style="text-align:right;"> 814 </td>
-   <td style="text-align:right;"> 1461 </td>
-   <td style="text-align:right;"> 3999 </td>
+   <td style="text-align:right;"> 10677 </td>
+   <td style="text-align:right;"> 5488 </td>
+   <td style="text-align:right;"> 7506 </td>
+   <td style="text-align:right;"> 3729 </td>
+   <td style="text-align:right;"> 2677 </td>
+   <td style="text-align:right;"> 415 </td>
+   <td style="text-align:right;"> 463 </td>
+   <td style="text-align:right;"> 1723 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2022 </td>
-   <td style="text-align:right;"> 1839 </td>
-   <td style="text-align:right;"> 5545 </td>
-   <td style="text-align:right;"> 2777 </td>
-   <td style="text-align:right;"> 5434 </td>
-   <td style="text-align:right;"> 3263 </td>
-   <td style="text-align:right;"> 2560 </td>
-   <td style="text-align:right;"> 549 </td>
-   <td style="text-align:right;"> 3685 </td>
+   <td style="text-align:right;"> 3094 </td>
+   <td style="text-align:right;"> 8741 </td>
+   <td style="text-align:right;"> 4490 </td>
+   <td style="text-align:right;"> 6095 </td>
+   <td style="text-align:right;"> 2904 </td>
+   <td style="text-align:right;"> 1959 </td>
+   <td style="text-align:right;"> 288 </td>
+   <td style="text-align:right;"> 1583 </td>
   </tr>
 </tbody>
 </table>
@@ -548,387 +597,387 @@ header-includes:
   <tr>
    <td style="text-align:left;"> 1988 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.049 </td>
-   <td style="text-align:right;"> 0.295 </td>
-   <td style="text-align:right;"> 0.296 </td>
-   <td style="text-align:right;"> 0.296 </td>
-   <td style="text-align:right;"> 0.296 </td>
-   <td style="text-align:right;"> 0.296 </td>
-   <td style="text-align:right;"> 0.296 </td>
+   <td style="text-align:right;"> 0.058 </td>
+   <td style="text-align:right;"> 0.132 </td>
+   <td style="text-align:right;"> 0.316 </td>
+   <td style="text-align:right;"> 0.820 </td>
+   <td style="text-align:right;"> 1.020 </td>
+   <td style="text-align:right;"> 0.832 </td>
+   <td style="text-align:right;"> 0.494 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1989 </td>
-   <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.087 </td>
-   <td style="text-align:right;"> 0.525 </td>
-   <td style="text-align:right;"> 0.526 </td>
-   <td style="text-align:right;"> 0.526 </td>
-   <td style="text-align:right;"> 0.526 </td>
-   <td style="text-align:right;"> 0.526 </td>
-   <td style="text-align:right;"> 0.526 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 1.536 </td>
+   <td style="text-align:right;"> 0.413 </td>
+   <td style="text-align:right;"> 0.408 </td>
+   <td style="text-align:right;"> 1.089 </td>
+   <td style="text-align:right;"> 1.508 </td>
+   <td style="text-align:right;"> 1.199 </td>
+   <td style="text-align:right;"> 0.707 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1990 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.160 </td>
-   <td style="text-align:right;"> 0.965 </td>
-   <td style="text-align:right;"> 0.967 </td>
-   <td style="text-align:right;"> 0.967 </td>
-   <td style="text-align:right;"> 0.967 </td>
-   <td style="text-align:right;"> 0.967 </td>
-   <td style="text-align:right;"> 0.967 </td>
+   <td style="text-align:right;"> 0.054 </td>
+   <td style="text-align:right;"> 0.334 </td>
+   <td style="text-align:right;"> 1.020 </td>
+   <td style="text-align:right;"> 1.215 </td>
+   <td style="text-align:right;"> 1.137 </td>
+   <td style="text-align:right;"> 0.975 </td>
+   <td style="text-align:right;"> 0.612 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1991 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.086 </td>
-   <td style="text-align:right;"> 0.516 </td>
-   <td style="text-align:right;"> 0.517 </td>
-   <td style="text-align:right;"> 0.517 </td>
-   <td style="text-align:right;"> 0.517 </td>
-   <td style="text-align:right;"> 0.517 </td>
-   <td style="text-align:right;"> 0.517 </td>
+   <td style="text-align:right;"> 0.049 </td>
+   <td style="text-align:right;"> 0.570 </td>
+   <td style="text-align:right;"> 0.496 </td>
+   <td style="text-align:right;"> 0.683 </td>
+   <td style="text-align:right;"> 0.678 </td>
+   <td style="text-align:right;"> 0.527 </td>
+   <td style="text-align:right;"> 0.343 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1992 </td>
-   <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.287 </td>
-   <td style="text-align:right;"> 1.731 </td>
-   <td style="text-align:right;"> 1.733 </td>
-   <td style="text-align:right;"> 1.733 </td>
-   <td style="text-align:right;"> 1.733 </td>
-   <td style="text-align:right;"> 1.733 </td>
-   <td style="text-align:right;"> 1.733 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.302 </td>
+   <td style="text-align:right;"> 1.685 </td>
+   <td style="text-align:right;"> 1.918 </td>
+   <td style="text-align:right;"> 2.474 </td>
+   <td style="text-align:right;"> 2.488 </td>
+   <td style="text-align:right;"> 2.162 </td>
+   <td style="text-align:right;"> 1.435 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1993 </td>
-   <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.152 </td>
-   <td style="text-align:right;"> 0.915 </td>
-   <td style="text-align:right;"> 0.916 </td>
-   <td style="text-align:right;"> 0.916 </td>
-   <td style="text-align:right;"> 0.916 </td>
-   <td style="text-align:right;"> 0.916 </td>
-   <td style="text-align:right;"> 0.916 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.174 </td>
+   <td style="text-align:right;"> 1.178 </td>
+   <td style="text-align:right;"> 0.566 </td>
+   <td style="text-align:right;"> 0.569 </td>
+   <td style="text-align:right;"> 0.682 </td>
+   <td style="text-align:right;"> 0.616 </td>
+   <td style="text-align:right;"> 0.394 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1994 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.272 </td>
-   <td style="text-align:right;"> 1.640 </td>
-   <td style="text-align:right;"> 1.641 </td>
-   <td style="text-align:right;"> 1.641 </td>
-   <td style="text-align:right;"> 1.641 </td>
-   <td style="text-align:right;"> 1.641 </td>
-   <td style="text-align:right;"> 1.641 </td>
+   <td style="text-align:right;"> 0.129 </td>
+   <td style="text-align:right;"> 1.806 </td>
+   <td style="text-align:right;"> 1.186 </td>
+   <td style="text-align:right;"> 0.652 </td>
+   <td style="text-align:right;"> 0.860 </td>
+   <td style="text-align:right;"> 0.794 </td>
+   <td style="text-align:right;"> 0.500 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1995 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.315 </td>
-   <td style="text-align:right;"> 1.903 </td>
-   <td style="text-align:right;"> 1.905 </td>
-   <td style="text-align:right;"> 1.905 </td>
-   <td style="text-align:right;"> 1.905 </td>
-   <td style="text-align:right;"> 1.905 </td>
-   <td style="text-align:right;"> 1.905 </td>
+   <td style="text-align:right;"> 0.015 </td>
+   <td style="text-align:right;"> 0.509 </td>
+   <td style="text-align:right;"> 1.780 </td>
+   <td style="text-align:right;"> 2.502 </td>
+   <td style="text-align:right;"> 3.231 </td>
+   <td style="text-align:right;"> 3.217 </td>
+   <td style="text-align:right;"> 2.513 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1996 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.114 </td>
-   <td style="text-align:right;"> 0.690 </td>
-   <td style="text-align:right;"> 0.691 </td>
-   <td style="text-align:right;"> 0.691 </td>
-   <td style="text-align:right;"> 0.691 </td>
-   <td style="text-align:right;"> 0.691 </td>
-   <td style="text-align:right;"> 0.691 </td>
+   <td style="text-align:right;"> 0.027 </td>
+   <td style="text-align:right;"> 0.717 </td>
+   <td style="text-align:right;"> 0.494 </td>
+   <td style="text-align:right;"> 0.495 </td>
+   <td style="text-align:right;"> 0.919 </td>
+   <td style="text-align:right;"> 1.250 </td>
+   <td style="text-align:right;"> 0.921 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1997 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.216 </td>
-   <td style="text-align:right;"> 1.305 </td>
-   <td style="text-align:right;"> 1.306 </td>
-   <td style="text-align:right;"> 1.306 </td>
-   <td style="text-align:right;"> 1.306 </td>
-   <td style="text-align:right;"> 1.306 </td>
-   <td style="text-align:right;"> 1.306 </td>
+   <td style="text-align:right;"> 0.037 </td>
+   <td style="text-align:right;"> 0.917 </td>
+   <td style="text-align:right;"> 0.962 </td>
+   <td style="text-align:right;"> 1.396 </td>
+   <td style="text-align:right;"> 2.165 </td>
+   <td style="text-align:right;"> 2.442 </td>
+   <td style="text-align:right;"> 1.584 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1998 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.138 </td>
-   <td style="text-align:right;"> 0.833 </td>
-   <td style="text-align:right;"> 0.834 </td>
-   <td style="text-align:right;"> 0.834 </td>
-   <td style="text-align:right;"> 0.834 </td>
-   <td style="text-align:right;"> 0.834 </td>
-   <td style="text-align:right;"> 0.834 </td>
+   <td style="text-align:right;"> 0.009 </td>
+   <td style="text-align:right;"> 0.203 </td>
+   <td style="text-align:right;"> 0.395 </td>
+   <td style="text-align:right;"> 0.823 </td>
+   <td style="text-align:right;"> 1.159 </td>
+   <td style="text-align:right;"> 1.086 </td>
+   <td style="text-align:right;"> 0.639 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1999 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.104 </td>
-   <td style="text-align:right;"> 0.626 </td>
-   <td style="text-align:right;"> 0.627 </td>
-   <td style="text-align:right;"> 0.627 </td>
-   <td style="text-align:right;"> 0.627 </td>
-   <td style="text-align:right;"> 0.627 </td>
-   <td style="text-align:right;"> 0.627 </td>
+   <td style="text-align:right;"> 0.009 </td>
+   <td style="text-align:right;"> 0.261 </td>
+   <td style="text-align:right;"> 0.342 </td>
+   <td style="text-align:right;"> 0.381 </td>
+   <td style="text-align:right;"> 0.371 </td>
+   <td style="text-align:right;"> 0.268 </td>
+   <td style="text-align:right;"> 0.144 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2000 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.018 </td>
-   <td style="text-align:right;"> 0.106 </td>
-   <td style="text-align:right;"> 0.107 </td>
-   <td style="text-align:right;"> 0.107 </td>
-   <td style="text-align:right;"> 0.107 </td>
-   <td style="text-align:right;"> 0.107 </td>
-   <td style="text-align:right;"> 0.107 </td>
+   <td style="text-align:right;"> 0.029 </td>
+   <td style="text-align:right;"> 0.512 </td>
+   <td style="text-align:right;"> 0.061 </td>
+   <td style="text-align:right;"> 0.048 </td>
+   <td style="text-align:right;"> 0.024 </td>
+   <td style="text-align:right;"> 0.014 </td>
+   <td style="text-align:right;"> 0.012 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2001 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.010 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
+   <td style="text-align:right;"> 0.022 </td>
+   <td style="text-align:right;"> 0.175 </td>
+   <td style="text-align:right;"> 0.078 </td>
+   <td style="text-align:right;"> 0.067 </td>
+   <td style="text-align:right;"> 0.018 </td>
+   <td style="text-align:right;"> 0.017 </td>
+   <td style="text-align:right;"> 0.020 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2002 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.033 </td>
-   <td style="text-align:right;"> 0.041 </td>
-   <td style="text-align:right;"> 0.042 </td>
-   <td style="text-align:right;"> 0.042 </td>
-   <td style="text-align:right;"> 0.042 </td>
+   <td style="text-align:right;"> 0.004 </td>
+   <td style="text-align:right;"> 0.032 </td>
+   <td style="text-align:right;"> 0.024 </td>
+   <td style="text-align:right;"> 0.026 </td>
+   <td style="text-align:right;"> 0.015 </td>
+   <td style="text-align:right;"> 0.014 </td>
+   <td style="text-align:right;"> 0.012 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2003 </td>
    <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.001 </td>
-   <td style="text-align:right;"> 0.004 </td>
    <td style="text-align:right;"> 0.011 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.014 </td>
-   <td style="text-align:right;"> 0.014 </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:right;"> 0.011 </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:right;"> 0.009 </td>
+   <td style="text-align:right;"> 0.007 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2004 </td>
    <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.003 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.002 </td>
    <td style="text-align:right;"> 0.001 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2005 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.005 </td>
    <td style="text-align:right;"> 0.004 </td>
-   <td style="text-align:right;"> 0.005 </td>
-   <td style="text-align:right;"> 0.005 </td>
-   <td style="text-align:right;"> 0.005 </td>
-   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2006 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.003 </td>
-   <td style="text-align:right;"> 0.019 </td>
-   <td style="text-align:right;"> 0.047 </td>
-   <td style="text-align:right;"> 0.058 </td>
-   <td style="text-align:right;"> 0.060 </td>
-   <td style="text-align:right;"> 0.060 </td>
-   <td style="text-align:right;"> 0.060 </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:right;"> 0.193 </td>
+   <td style="text-align:right;"> 0.126 </td>
+   <td style="text-align:right;"> 0.112 </td>
+   <td style="text-align:right;"> 0.071 </td>
+   <td style="text-align:right;"> 0.026 </td>
+   <td style="text-align:right;"> 0.008 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2007 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.011 </td>
-   <td style="text-align:right;"> 0.026 </td>
-   <td style="text-align:right;"> 0.032 </td>
-   <td style="text-align:right;"> 0.033 </td>
-   <td style="text-align:right;"> 0.033 </td>
-   <td style="text-align:right;"> 0.033 </td>
+   <td style="text-align:right;"> 0.022 </td>
+   <td style="text-align:right;"> 0.058 </td>
+   <td style="text-align:right;"> 0.098 </td>
+   <td style="text-align:right;"> 0.134 </td>
+   <td style="text-align:right;"> 0.029 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2008 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.003 </td>
-   <td style="text-align:right;"> 0.015 </td>
-   <td style="text-align:right;"> 0.038 </td>
-   <td style="text-align:right;"> 0.047 </td>
-   <td style="text-align:right;"> 0.048 </td>
-   <td style="text-align:right;"> 0.048 </td>
-   <td style="text-align:right;"> 0.048 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.020 </td>
+   <td style="text-align:right;"> 0.043 </td>
+   <td style="text-align:right;"> 0.083 </td>
+   <td style="text-align:right;"> 0.109 </td>
+   <td style="text-align:right;"> 0.146 </td>
+   <td style="text-align:right;"> 0.055 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2009 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.012 </td>
-   <td style="text-align:right;"> 0.031 </td>
-   <td style="text-align:right;"> 0.038 </td>
-   <td style="text-align:right;"> 0.039 </td>
-   <td style="text-align:right;"> 0.039 </td>
-   <td style="text-align:right;"> 0.039 </td>
+   <td style="text-align:right;"> 0.003 </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:right;"> 0.032 </td>
+   <td style="text-align:right;"> 0.057 </td>
+   <td style="text-align:right;"> 0.070 </td>
+   <td style="text-align:right;"> 0.102 </td>
+   <td style="text-align:right;"> 0.048 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2010 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.073 </td>
-   <td style="text-align:right;"> 0.179 </td>
-   <td style="text-align:right;"> 0.220 </td>
-   <td style="text-align:right;"> 0.227 </td>
-   <td style="text-align:right;"> 0.228 </td>
-   <td style="text-align:right;"> 0.228 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.040 </td>
+   <td style="text-align:right;"> 0.174 </td>
+   <td style="text-align:right;"> 0.304 </td>
+   <td style="text-align:right;"> 0.177 </td>
+   <td style="text-align:right;"> 0.297 </td>
+   <td style="text-align:right;"> 0.315 </td>
+   <td style="text-align:right;"> 0.251 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2011 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.017 </td>
-   <td style="text-align:right;"> 0.096 </td>
-   <td style="text-align:right;"> 0.235 </td>
-   <td style="text-align:right;"> 0.290 </td>
-   <td style="text-align:right;"> 0.299 </td>
-   <td style="text-align:right;"> 0.300 </td>
-   <td style="text-align:right;"> 0.300 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.022 </td>
+   <td style="text-align:right;"> 0.106 </td>
+   <td style="text-align:right;"> 0.147 </td>
+   <td style="text-align:right;"> 0.244 </td>
+   <td style="text-align:right;"> 0.669 </td>
+   <td style="text-align:right;"> 0.442 </td>
+   <td style="text-align:right;"> 0.420 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2012 </td>
-   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.014 </td>
-   <td style="text-align:right;"> 0.079 </td>
-   <td style="text-align:right;"> 0.193 </td>
-   <td style="text-align:right;"> 0.238 </td>
-   <td style="text-align:right;"> 0.245 </td>
-   <td style="text-align:right;"> 0.246 </td>
-   <td style="text-align:right;"> 0.246 </td>
+   <td style="text-align:right;"> 0.093 </td>
+   <td style="text-align:right;"> 0.144 </td>
+   <td style="text-align:right;"> 0.332 </td>
+   <td style="text-align:right;"> 0.449 </td>
+   <td style="text-align:right;"> 0.344 </td>
+   <td style="text-align:right;"> 0.573 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2013 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.072 </td>
-   <td style="text-align:right;"> 0.175 </td>
-   <td style="text-align:right;"> 0.216 </td>
-   <td style="text-align:right;"> 0.223 </td>
-   <td style="text-align:right;"> 0.224 </td>
-   <td style="text-align:right;"> 0.224 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.024 </td>
+   <td style="text-align:right;"> 0.173 </td>
+   <td style="text-align:right;"> 0.099 </td>
+   <td style="text-align:right;"> 0.257 </td>
+   <td style="text-align:right;"> 0.416 </td>
+   <td style="text-align:right;"> 0.496 </td>
+   <td style="text-align:right;"> 0.395 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2014 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.011 </td>
-   <td style="text-align:right;"> 0.062 </td>
-   <td style="text-align:right;"> 0.153 </td>
-   <td style="text-align:right;"> 0.188 </td>
-   <td style="text-align:right;"> 0.194 </td>
-   <td style="text-align:right;"> 0.195 </td>
-   <td style="text-align:right;"> 0.195 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:right;"> 0.049 </td>
+   <td style="text-align:right;"> 0.259 </td>
+   <td style="text-align:right;"> 0.172 </td>
+   <td style="text-align:right;"> 0.365 </td>
+   <td style="text-align:right;"> 0.520 </td>
+   <td style="text-align:right;"> 0.369 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2015 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.012 </td>
-   <td style="text-align:right;"> 0.067 </td>
-   <td style="text-align:right;"> 0.164 </td>
-   <td style="text-align:right;"> 0.202 </td>
-   <td style="text-align:right;"> 0.208 </td>
-   <td style="text-align:right;"> 0.209 </td>
-   <td style="text-align:right;"> 0.209 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.009 </td>
+   <td style="text-align:right;"> 0.105 </td>
+   <td style="text-align:right;"> 0.127 </td>
+   <td style="text-align:right;"> 0.165 </td>
+   <td style="text-align:right;"> 0.491 </td>
+   <td style="text-align:right;"> 0.510 </td>
+   <td style="text-align:right;"> 0.483 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2016 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.012 </td>
-   <td style="text-align:right;"> 0.065 </td>
-   <td style="text-align:right;"> 0.159 </td>
-   <td style="text-align:right;"> 0.196 </td>
-   <td style="text-align:right;"> 0.202 </td>
-   <td style="text-align:right;"> 0.203 </td>
-   <td style="text-align:right;"> 0.203 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.008 </td>
+   <td style="text-align:right;"> 0.109 </td>
+   <td style="text-align:right;"> 0.336 </td>
+   <td style="text-align:right;"> 0.191 </td>
+   <td style="text-align:right;"> 0.205 </td>
+   <td style="text-align:right;"> 0.381 </td>
+   <td style="text-align:right;"> 0.647 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2017 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.073 </td>
-   <td style="text-align:right;"> 0.179 </td>
-   <td style="text-align:right;"> 0.221 </td>
-   <td style="text-align:right;"> 0.228 </td>
-   <td style="text-align:right;"> 0.229 </td>
-   <td style="text-align:right;"> 0.229 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.003 </td>
+   <td style="text-align:right;"> 0.036 </td>
+   <td style="text-align:right;"> 0.081 </td>
+   <td style="text-align:right;"> 0.160 </td>
+   <td style="text-align:right;"> 0.362 </td>
+   <td style="text-align:right;"> 0.461 </td>
+   <td style="text-align:right;"> 0.370 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2018 </td>
+   <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.012 </td>
-   <td style="text-align:right;"> 0.066 </td>
-   <td style="text-align:right;"> 0.162 </td>
-   <td style="text-align:right;"> 0.200 </td>
-   <td style="text-align:right;"> 0.206 </td>
-   <td style="text-align:right;"> 0.207 </td>
-   <td style="text-align:right;"> 0.207 </td>
+   <td style="text-align:right;"> 0.028 </td>
+   <td style="text-align:right;"> 0.046 </td>
+   <td style="text-align:right;"> 0.116 </td>
+   <td style="text-align:right;"> 0.405 </td>
+   <td style="text-align:right;"> 0.533 </td>
+   <td style="text-align:right;"> 0.387 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2019 </td>
-   <td style="text-align:right;"> 0.003 </td>
-   <td style="text-align:right;"> 0.024 </td>
-   <td style="text-align:right;"> 0.132 </td>
-   <td style="text-align:right;"> 0.323 </td>
-   <td style="text-align:right;"> 0.398 </td>
-   <td style="text-align:right;"> 0.411 </td>
-   <td style="text-align:right;"> 0.412 </td>
-   <td style="text-align:right;"> 0.413 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.114 </td>
+   <td style="text-align:right;"> 0.194 </td>
+   <td style="text-align:right;"> 0.668 </td>
+   <td style="text-align:right;"> 0.950 </td>
+   <td style="text-align:right;"> 0.813 </td>
+   <td style="text-align:right;"> 0.673 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2020 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.014 </td>
-   <td style="text-align:right;"> 0.078 </td>
-   <td style="text-align:right;"> 0.191 </td>
-   <td style="text-align:right;"> 0.236 </td>
-   <td style="text-align:right;"> 0.244 </td>
-   <td style="text-align:right;"> 0.245 </td>
-   <td style="text-align:right;"> 0.245 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.019 </td>
+   <td style="text-align:right;"> 0.156 </td>
+   <td style="text-align:right;"> 0.586 </td>
+   <td style="text-align:right;"> 0.841 </td>
+   <td style="text-align:right;"> 0.699 </td>
+   <td style="text-align:right;"> 0.429 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2021 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.003 </td>
-   <td style="text-align:right;"> 0.019 </td>
-   <td style="text-align:right;"> 0.046 </td>
-   <td style="text-align:right;"> 0.057 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.008 </td>
+   <td style="text-align:right;"> 0.050 </td>
+   <td style="text-align:right;"> 0.112 </td>
+   <td style="text-align:right;"> 0.166 </td>
+   <td style="text-align:right;"> 0.166 </td>
+   <td style="text-align:right;"> 0.111 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2022 </td>
+   <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.001 </td>
-   <td style="text-align:right;"> 0.008 </td>
-   <td style="text-align:right;"> 0.042 </td>
-   <td style="text-align:right;"> 0.103 </td>
-   <td style="text-align:right;"> 0.128 </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:right;"> 0.071 </td>
    <td style="text-align:right;"> 0.132 </td>
-   <td style="text-align:right;"> 0.132 </td>
-   <td style="text-align:right;"> 0.132 </td>
+   <td style="text-align:right;"> 0.248 </td>
+   <td style="text-align:right;"> 0.353 </td>
+   <td style="text-align:right;"> 0.292 </td>
   </tr>
 </tbody>
 </table>
@@ -954,387 +1003,387 @@ header-includes:
   <tr>
    <td style="text-align:left;"> 1988 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.049 </td>
-   <td style="text-align:right;"> 0.295 </td>
-   <td style="text-align:right;"> 0.296 </td>
-   <td style="text-align:right;"> 0.296 </td>
-   <td style="text-align:right;"> 0.296 </td>
-   <td style="text-align:right;"> 0.296 </td>
-   <td style="text-align:right;"> 0.296 </td>
+   <td style="text-align:right;"> 0.058 </td>
+   <td style="text-align:right;"> 0.132 </td>
+   <td style="text-align:right;"> 0.316 </td>
+   <td style="text-align:right;"> 0.820 </td>
+   <td style="text-align:right;"> 1.020 </td>
+   <td style="text-align:right;"> 0.832 </td>
+   <td style="text-align:right;"> 0.494 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1989 </td>
-   <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.087 </td>
-   <td style="text-align:right;"> 0.525 </td>
-   <td style="text-align:right;"> 0.526 </td>
-   <td style="text-align:right;"> 0.526 </td>
-   <td style="text-align:right;"> 0.526 </td>
-   <td style="text-align:right;"> 0.526 </td>
-   <td style="text-align:right;"> 0.526 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 1.536 </td>
+   <td style="text-align:right;"> 0.413 </td>
+   <td style="text-align:right;"> 0.408 </td>
+   <td style="text-align:right;"> 1.089 </td>
+   <td style="text-align:right;"> 1.508 </td>
+   <td style="text-align:right;"> 1.199 </td>
+   <td style="text-align:right;"> 0.707 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1990 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.160 </td>
-   <td style="text-align:right;"> 0.965 </td>
-   <td style="text-align:right;"> 0.967 </td>
-   <td style="text-align:right;"> 0.967 </td>
-   <td style="text-align:right;"> 0.967 </td>
-   <td style="text-align:right;"> 0.967 </td>
-   <td style="text-align:right;"> 0.967 </td>
+   <td style="text-align:right;"> 0.054 </td>
+   <td style="text-align:right;"> 0.334 </td>
+   <td style="text-align:right;"> 1.020 </td>
+   <td style="text-align:right;"> 1.215 </td>
+   <td style="text-align:right;"> 1.137 </td>
+   <td style="text-align:right;"> 0.975 </td>
+   <td style="text-align:right;"> 0.612 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1991 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.086 </td>
-   <td style="text-align:right;"> 0.516 </td>
-   <td style="text-align:right;"> 0.517 </td>
-   <td style="text-align:right;"> 0.517 </td>
-   <td style="text-align:right;"> 0.517 </td>
-   <td style="text-align:right;"> 0.517 </td>
-   <td style="text-align:right;"> 0.517 </td>
+   <td style="text-align:right;"> 0.049 </td>
+   <td style="text-align:right;"> 0.570 </td>
+   <td style="text-align:right;"> 0.496 </td>
+   <td style="text-align:right;"> 0.683 </td>
+   <td style="text-align:right;"> 0.678 </td>
+   <td style="text-align:right;"> 0.527 </td>
+   <td style="text-align:right;"> 0.343 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1992 </td>
-   <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.287 </td>
-   <td style="text-align:right;"> 1.731 </td>
-   <td style="text-align:right;"> 1.733 </td>
-   <td style="text-align:right;"> 1.733 </td>
-   <td style="text-align:right;"> 1.733 </td>
-   <td style="text-align:right;"> 1.733 </td>
-   <td style="text-align:right;"> 1.733 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.302 </td>
+   <td style="text-align:right;"> 1.685 </td>
+   <td style="text-align:right;"> 1.918 </td>
+   <td style="text-align:right;"> 2.474 </td>
+   <td style="text-align:right;"> 2.488 </td>
+   <td style="text-align:right;"> 2.162 </td>
+   <td style="text-align:right;"> 1.435 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1993 </td>
-   <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.152 </td>
-   <td style="text-align:right;"> 0.915 </td>
-   <td style="text-align:right;"> 0.916 </td>
-   <td style="text-align:right;"> 0.916 </td>
-   <td style="text-align:right;"> 0.916 </td>
-   <td style="text-align:right;"> 0.916 </td>
-   <td style="text-align:right;"> 0.916 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.174 </td>
+   <td style="text-align:right;"> 1.178 </td>
+   <td style="text-align:right;"> 0.566 </td>
+   <td style="text-align:right;"> 0.569 </td>
+   <td style="text-align:right;"> 0.682 </td>
+   <td style="text-align:right;"> 0.616 </td>
+   <td style="text-align:right;"> 0.394 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1994 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.272 </td>
-   <td style="text-align:right;"> 1.640 </td>
-   <td style="text-align:right;"> 1.641 </td>
-   <td style="text-align:right;"> 1.641 </td>
-   <td style="text-align:right;"> 1.641 </td>
-   <td style="text-align:right;"> 1.641 </td>
-   <td style="text-align:right;"> 1.641 </td>
+   <td style="text-align:right;"> 0.129 </td>
+   <td style="text-align:right;"> 1.806 </td>
+   <td style="text-align:right;"> 1.186 </td>
+   <td style="text-align:right;"> 0.652 </td>
+   <td style="text-align:right;"> 0.860 </td>
+   <td style="text-align:right;"> 0.794 </td>
+   <td style="text-align:right;"> 0.500 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1995 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.315 </td>
-   <td style="text-align:right;"> 1.903 </td>
-   <td style="text-align:right;"> 1.905 </td>
-   <td style="text-align:right;"> 1.905 </td>
-   <td style="text-align:right;"> 1.905 </td>
-   <td style="text-align:right;"> 1.905 </td>
-   <td style="text-align:right;"> 1.905 </td>
+   <td style="text-align:right;"> 0.015 </td>
+   <td style="text-align:right;"> 0.509 </td>
+   <td style="text-align:right;"> 1.780 </td>
+   <td style="text-align:right;"> 2.502 </td>
+   <td style="text-align:right;"> 3.231 </td>
+   <td style="text-align:right;"> 3.217 </td>
+   <td style="text-align:right;"> 2.513 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1996 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.114 </td>
-   <td style="text-align:right;"> 0.690 </td>
-   <td style="text-align:right;"> 0.691 </td>
-   <td style="text-align:right;"> 0.691 </td>
-   <td style="text-align:right;"> 0.691 </td>
-   <td style="text-align:right;"> 0.691 </td>
-   <td style="text-align:right;"> 0.691 </td>
+   <td style="text-align:right;"> 0.027 </td>
+   <td style="text-align:right;"> 0.717 </td>
+   <td style="text-align:right;"> 0.494 </td>
+   <td style="text-align:right;"> 0.495 </td>
+   <td style="text-align:right;"> 0.919 </td>
+   <td style="text-align:right;"> 1.250 </td>
+   <td style="text-align:right;"> 0.921 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1997 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.216 </td>
-   <td style="text-align:right;"> 1.305 </td>
-   <td style="text-align:right;"> 1.306 </td>
-   <td style="text-align:right;"> 1.306 </td>
-   <td style="text-align:right;"> 1.306 </td>
-   <td style="text-align:right;"> 1.306 </td>
-   <td style="text-align:right;"> 1.306 </td>
+   <td style="text-align:right;"> 0.037 </td>
+   <td style="text-align:right;"> 0.917 </td>
+   <td style="text-align:right;"> 0.962 </td>
+   <td style="text-align:right;"> 1.396 </td>
+   <td style="text-align:right;"> 2.165 </td>
+   <td style="text-align:right;"> 2.442 </td>
+   <td style="text-align:right;"> 1.584 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1998 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.138 </td>
-   <td style="text-align:right;"> 0.833 </td>
-   <td style="text-align:right;"> 0.834 </td>
-   <td style="text-align:right;"> 0.834 </td>
-   <td style="text-align:right;"> 0.834 </td>
-   <td style="text-align:right;"> 0.834 </td>
-   <td style="text-align:right;"> 0.834 </td>
+   <td style="text-align:right;"> 0.009 </td>
+   <td style="text-align:right;"> 0.203 </td>
+   <td style="text-align:right;"> 0.395 </td>
+   <td style="text-align:right;"> 0.823 </td>
+   <td style="text-align:right;"> 1.159 </td>
+   <td style="text-align:right;"> 1.086 </td>
+   <td style="text-align:right;"> 0.639 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 1999 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.104 </td>
-   <td style="text-align:right;"> 0.626 </td>
-   <td style="text-align:right;"> 0.627 </td>
-   <td style="text-align:right;"> 0.627 </td>
-   <td style="text-align:right;"> 0.627 </td>
-   <td style="text-align:right;"> 0.627 </td>
-   <td style="text-align:right;"> 0.627 </td>
+   <td style="text-align:right;"> 0.009 </td>
+   <td style="text-align:right;"> 0.261 </td>
+   <td style="text-align:right;"> 0.342 </td>
+   <td style="text-align:right;"> 0.381 </td>
+   <td style="text-align:right;"> 0.371 </td>
+   <td style="text-align:right;"> 0.268 </td>
+   <td style="text-align:right;"> 0.144 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2000 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.018 </td>
-   <td style="text-align:right;"> 0.106 </td>
-   <td style="text-align:right;"> 0.107 </td>
-   <td style="text-align:right;"> 0.107 </td>
-   <td style="text-align:right;"> 0.107 </td>
-   <td style="text-align:right;"> 0.107 </td>
-   <td style="text-align:right;"> 0.107 </td>
+   <td style="text-align:right;"> 0.029 </td>
+   <td style="text-align:right;"> 0.512 </td>
+   <td style="text-align:right;"> 0.061 </td>
+   <td style="text-align:right;"> 0.048 </td>
+   <td style="text-align:right;"> 0.024 </td>
+   <td style="text-align:right;"> 0.014 </td>
+   <td style="text-align:right;"> 0.012 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2001 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.010 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
+   <td style="text-align:right;"> 0.022 </td>
+   <td style="text-align:right;"> 0.175 </td>
+   <td style="text-align:right;"> 0.078 </td>
+   <td style="text-align:right;"> 0.067 </td>
+   <td style="text-align:right;"> 0.018 </td>
+   <td style="text-align:right;"> 0.017 </td>
+   <td style="text-align:right;"> 0.020 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2002 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.033 </td>
-   <td style="text-align:right;"> 0.041 </td>
-   <td style="text-align:right;"> 0.042 </td>
-   <td style="text-align:right;"> 0.042 </td>
-   <td style="text-align:right;"> 0.042 </td>
+   <td style="text-align:right;"> 0.004 </td>
+   <td style="text-align:right;"> 0.032 </td>
+   <td style="text-align:right;"> 0.024 </td>
+   <td style="text-align:right;"> 0.026 </td>
+   <td style="text-align:right;"> 0.015 </td>
+   <td style="text-align:right;"> 0.014 </td>
+   <td style="text-align:right;"> 0.012 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2003 </td>
    <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.001 </td>
-   <td style="text-align:right;"> 0.004 </td>
    <td style="text-align:right;"> 0.011 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.014 </td>
-   <td style="text-align:right;"> 0.014 </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:right;"> 0.011 </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:right;"> 0.009 </td>
+   <td style="text-align:right;"> 0.007 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2004 </td>
    <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.003 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.002 </td>
    <td style="text-align:right;"> 0.001 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2005 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.005 </td>
    <td style="text-align:right;"> 0.004 </td>
-   <td style="text-align:right;"> 0.005 </td>
-   <td style="text-align:right;"> 0.005 </td>
-   <td style="text-align:right;"> 0.005 </td>
-   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2006 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.003 </td>
-   <td style="text-align:right;"> 0.019 </td>
-   <td style="text-align:right;"> 0.047 </td>
-   <td style="text-align:right;"> 0.058 </td>
-   <td style="text-align:right;"> 0.060 </td>
-   <td style="text-align:right;"> 0.060 </td>
-   <td style="text-align:right;"> 0.060 </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:right;"> 0.193 </td>
+   <td style="text-align:right;"> 0.126 </td>
+   <td style="text-align:right;"> 0.112 </td>
+   <td style="text-align:right;"> 0.071 </td>
+   <td style="text-align:right;"> 0.026 </td>
+   <td style="text-align:right;"> 0.008 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2007 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.011 </td>
-   <td style="text-align:right;"> 0.026 </td>
-   <td style="text-align:right;"> 0.032 </td>
-   <td style="text-align:right;"> 0.033 </td>
-   <td style="text-align:right;"> 0.033 </td>
-   <td style="text-align:right;"> 0.033 </td>
+   <td style="text-align:right;"> 0.022 </td>
+   <td style="text-align:right;"> 0.058 </td>
+   <td style="text-align:right;"> 0.098 </td>
+   <td style="text-align:right;"> 0.134 </td>
+   <td style="text-align:right;"> 0.029 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2008 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.003 </td>
-   <td style="text-align:right;"> 0.015 </td>
-   <td style="text-align:right;"> 0.038 </td>
-   <td style="text-align:right;"> 0.047 </td>
-   <td style="text-align:right;"> 0.048 </td>
-   <td style="text-align:right;"> 0.048 </td>
-   <td style="text-align:right;"> 0.048 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.020 </td>
+   <td style="text-align:right;"> 0.043 </td>
+   <td style="text-align:right;"> 0.083 </td>
+   <td style="text-align:right;"> 0.109 </td>
+   <td style="text-align:right;"> 0.146 </td>
+   <td style="text-align:right;"> 0.055 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2009 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.012 </td>
-   <td style="text-align:right;"> 0.031 </td>
-   <td style="text-align:right;"> 0.038 </td>
-   <td style="text-align:right;"> 0.039 </td>
-   <td style="text-align:right;"> 0.039 </td>
-   <td style="text-align:right;"> 0.039 </td>
+   <td style="text-align:right;"> 0.003 </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:right;"> 0.032 </td>
+   <td style="text-align:right;"> 0.057 </td>
+   <td style="text-align:right;"> 0.070 </td>
+   <td style="text-align:right;"> 0.102 </td>
+   <td style="text-align:right;"> 0.048 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2010 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.073 </td>
-   <td style="text-align:right;"> 0.179 </td>
-   <td style="text-align:right;"> 0.220 </td>
-   <td style="text-align:right;"> 0.227 </td>
-   <td style="text-align:right;"> 0.228 </td>
-   <td style="text-align:right;"> 0.228 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.040 </td>
+   <td style="text-align:right;"> 0.174 </td>
+   <td style="text-align:right;"> 0.304 </td>
+   <td style="text-align:right;"> 0.177 </td>
+   <td style="text-align:right;"> 0.297 </td>
+   <td style="text-align:right;"> 0.315 </td>
+   <td style="text-align:right;"> 0.251 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2011 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.017 </td>
-   <td style="text-align:right;"> 0.096 </td>
-   <td style="text-align:right;"> 0.235 </td>
-   <td style="text-align:right;"> 0.290 </td>
-   <td style="text-align:right;"> 0.299 </td>
-   <td style="text-align:right;"> 0.300 </td>
-   <td style="text-align:right;"> 0.300 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.022 </td>
+   <td style="text-align:right;"> 0.106 </td>
+   <td style="text-align:right;"> 0.147 </td>
+   <td style="text-align:right;"> 0.244 </td>
+   <td style="text-align:right;"> 0.669 </td>
+   <td style="text-align:right;"> 0.442 </td>
+   <td style="text-align:right;"> 0.420 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2012 </td>
-   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.014 </td>
-   <td style="text-align:right;"> 0.079 </td>
-   <td style="text-align:right;"> 0.193 </td>
-   <td style="text-align:right;"> 0.238 </td>
-   <td style="text-align:right;"> 0.245 </td>
-   <td style="text-align:right;"> 0.246 </td>
-   <td style="text-align:right;"> 0.246 </td>
+   <td style="text-align:right;"> 0.093 </td>
+   <td style="text-align:right;"> 0.144 </td>
+   <td style="text-align:right;"> 0.332 </td>
+   <td style="text-align:right;"> 0.449 </td>
+   <td style="text-align:right;"> 0.344 </td>
+   <td style="text-align:right;"> 0.573 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2013 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.072 </td>
-   <td style="text-align:right;"> 0.175 </td>
-   <td style="text-align:right;"> 0.216 </td>
-   <td style="text-align:right;"> 0.223 </td>
-   <td style="text-align:right;"> 0.224 </td>
-   <td style="text-align:right;"> 0.224 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.024 </td>
+   <td style="text-align:right;"> 0.173 </td>
+   <td style="text-align:right;"> 0.099 </td>
+   <td style="text-align:right;"> 0.257 </td>
+   <td style="text-align:right;"> 0.416 </td>
+   <td style="text-align:right;"> 0.496 </td>
+   <td style="text-align:right;"> 0.395 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2014 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.011 </td>
-   <td style="text-align:right;"> 0.062 </td>
-   <td style="text-align:right;"> 0.153 </td>
-   <td style="text-align:right;"> 0.188 </td>
-   <td style="text-align:right;"> 0.194 </td>
-   <td style="text-align:right;"> 0.195 </td>
-   <td style="text-align:right;"> 0.195 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:right;"> 0.049 </td>
+   <td style="text-align:right;"> 0.259 </td>
+   <td style="text-align:right;"> 0.172 </td>
+   <td style="text-align:right;"> 0.365 </td>
+   <td style="text-align:right;"> 0.520 </td>
+   <td style="text-align:right;"> 0.369 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2015 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.012 </td>
-   <td style="text-align:right;"> 0.067 </td>
-   <td style="text-align:right;"> 0.164 </td>
-   <td style="text-align:right;"> 0.202 </td>
-   <td style="text-align:right;"> 0.208 </td>
-   <td style="text-align:right;"> 0.209 </td>
-   <td style="text-align:right;"> 0.209 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.009 </td>
+   <td style="text-align:right;"> 0.105 </td>
+   <td style="text-align:right;"> 0.127 </td>
+   <td style="text-align:right;"> 0.165 </td>
+   <td style="text-align:right;"> 0.491 </td>
+   <td style="text-align:right;"> 0.510 </td>
+   <td style="text-align:right;"> 0.483 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2016 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.012 </td>
-   <td style="text-align:right;"> 0.065 </td>
-   <td style="text-align:right;"> 0.159 </td>
-   <td style="text-align:right;"> 0.196 </td>
-   <td style="text-align:right;"> 0.202 </td>
-   <td style="text-align:right;"> 0.203 </td>
-   <td style="text-align:right;"> 0.203 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.008 </td>
+   <td style="text-align:right;"> 0.109 </td>
+   <td style="text-align:right;"> 0.336 </td>
+   <td style="text-align:right;"> 0.191 </td>
+   <td style="text-align:right;"> 0.205 </td>
+   <td style="text-align:right;"> 0.381 </td>
+   <td style="text-align:right;"> 0.647 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2017 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.013 </td>
-   <td style="text-align:right;"> 0.073 </td>
-   <td style="text-align:right;"> 0.179 </td>
-   <td style="text-align:right;"> 0.221 </td>
-   <td style="text-align:right;"> 0.228 </td>
-   <td style="text-align:right;"> 0.229 </td>
-   <td style="text-align:right;"> 0.229 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.003 </td>
+   <td style="text-align:right;"> 0.036 </td>
+   <td style="text-align:right;"> 0.081 </td>
+   <td style="text-align:right;"> 0.160 </td>
+   <td style="text-align:right;"> 0.362 </td>
+   <td style="text-align:right;"> 0.461 </td>
+   <td style="text-align:right;"> 0.370 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2018 </td>
+   <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.012 </td>
-   <td style="text-align:right;"> 0.066 </td>
-   <td style="text-align:right;"> 0.162 </td>
-   <td style="text-align:right;"> 0.200 </td>
-   <td style="text-align:right;"> 0.206 </td>
-   <td style="text-align:right;"> 0.207 </td>
-   <td style="text-align:right;"> 0.207 </td>
+   <td style="text-align:right;"> 0.028 </td>
+   <td style="text-align:right;"> 0.046 </td>
+   <td style="text-align:right;"> 0.116 </td>
+   <td style="text-align:right;"> 0.405 </td>
+   <td style="text-align:right;"> 0.533 </td>
+   <td style="text-align:right;"> 0.387 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2019 </td>
-   <td style="text-align:right;"> 0.003 </td>
-   <td style="text-align:right;"> 0.024 </td>
-   <td style="text-align:right;"> 0.132 </td>
-   <td style="text-align:right;"> 0.323 </td>
-   <td style="text-align:right;"> 0.398 </td>
-   <td style="text-align:right;"> 0.411 </td>
-   <td style="text-align:right;"> 0.412 </td>
-   <td style="text-align:right;"> 0.413 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.114 </td>
+   <td style="text-align:right;"> 0.194 </td>
+   <td style="text-align:right;"> 0.668 </td>
+   <td style="text-align:right;"> 0.950 </td>
+   <td style="text-align:right;"> 0.813 </td>
+   <td style="text-align:right;"> 0.673 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2020 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.014 </td>
-   <td style="text-align:right;"> 0.078 </td>
-   <td style="text-align:right;"> 0.191 </td>
-   <td style="text-align:right;"> 0.236 </td>
-   <td style="text-align:right;"> 0.244 </td>
-   <td style="text-align:right;"> 0.245 </td>
-   <td style="text-align:right;"> 0.245 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.019 </td>
+   <td style="text-align:right;"> 0.156 </td>
+   <td style="text-align:right;"> 0.586 </td>
+   <td style="text-align:right;"> 0.841 </td>
+   <td style="text-align:right;"> 0.699 </td>
+   <td style="text-align:right;"> 0.429 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2021 </td>
    <td style="text-align:right;"> 0.000 </td>
-   <td style="text-align:right;"> 0.003 </td>
-   <td style="text-align:right;"> 0.019 </td>
-   <td style="text-align:right;"> 0.046 </td>
-   <td style="text-align:right;"> 0.057 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
-   <td style="text-align:right;"> 0.059 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.008 </td>
+   <td style="text-align:right;"> 0.050 </td>
+   <td style="text-align:right;"> 0.112 </td>
+   <td style="text-align:right;"> 0.166 </td>
+   <td style="text-align:right;"> 0.166 </td>
+   <td style="text-align:right;"> 0.111 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2022 </td>
+   <td style="text-align:right;"> 0.000 </td>
    <td style="text-align:right;"> 0.001 </td>
-   <td style="text-align:right;"> 0.008 </td>
-   <td style="text-align:right;"> 0.042 </td>
-   <td style="text-align:right;"> 0.103 </td>
-   <td style="text-align:right;"> 0.128 </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:right;"> 0.071 </td>
    <td style="text-align:right;"> 0.132 </td>
-   <td style="text-align:right;"> 0.132 </td>
-   <td style="text-align:right;"> 0.132 </td>
+   <td style="text-align:right;"> 0.248 </td>
+   <td style="text-align:right;"> 0.353 </td>
+   <td style="text-align:right;"> 0.292 </td>
   </tr>
 </tbody>
 </table>
