@@ -158,17 +158,9 @@ inputM4 <- set_NAA(inputM4,NAA_re = NAA1)
 inputM4<- set_M(inputM4, M2)
 
 ############################################################
-inputM3<- set_M(inputM1, M3)
-inputM3 <- set_selectivity(inputM3,sel2) #M3S2N1
-
-inputM4 <- set_M(inputM3, M4) #M4S2N1
-
-inputM5 <- set_NAA(inputM4,NAA_re = NAA2) #M4S2N2
-
-inputM6 <- set_selectivity(input,sel3)
-inputM6 <- set_NAA(inputM4,NAA_re = NAA2)
-inputM6<- set_M(inputM4, M4) #M4S3N2
-
+inputM5<- set_M(inputM3, M3)
+inputM6 <- set_M(inputM3,M4)
+inputM7 <- set_NAA(inputM6,NAA_re = NAA2)
 
 fitM1 <- fit_wham(inputM1, do.retro = TRUE, do.osa = FALSE, do.sdrep = TRUE, do.brps = FALSE)
 fitM1$gr(fitM1$opt$par)
@@ -178,15 +170,24 @@ fitM1$final_gradient
 fitM2 <- update(fitM1,input=inputM2)
 fitM3 <- update(fitM1,input=inputM3)
 fitM4 <- update(fitM1,input=inputM4)
+res <- compare_wham_models(list(fitM1,fitM2), fdir = "result1-2")
+
 fitM5 <- update(fitM1,input=inputM5)
 fitM6 <- update(fitM1,input=inputM6)
+fitM7 <- update(fitM1,input=inputM7)
 
-res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4), fdir = "result")
+
+res <- compare_wham_models(list(fitM3,fitM5,fitM6), fdir = "result3-5")
+res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4,fitM5,fitM6,fitM7), fdir = "result1-7")
 
 res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4,fitM5,fitM6), fdir = "result")
-plot_wham_output(fitM1)
-plot_wham_output(fitM2)
-plot_wham_output(fitM3)
-plot_wham_output(fitM4)
-plot_wham_output(fitM5)
-plot_wham_output(fitM6)
+plot_wham_output(fitM1);file.rename("wham_figures_tables.html","m1.html")
+plot_wham_output(fitM2);file.rename("wham_figures_tables.html","m2.html")
+plot_wham_output(fitM3);file.rename("wham_figures_tables.html","m3.html")
+plot_wham_output(fitM4);file.rename("wham_figures_tables.html","m4.html")
+
+plot_wham_output(fitM5);file.rename("wham_figures_tables.html","m5.html")
+plot_wham_output(fitM6);file.rename("wham_figures_tables.html","m6.html")
+plot_wham_output(fitM7);file.rename("wham_figures_tables.html","m7.html")
+plot_wham_output(fitM8);file.rename("wham_figures_tables.html","m8.html")
+
