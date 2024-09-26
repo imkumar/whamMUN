@@ -98,35 +98,33 @@ F_opts <- list(
 #Sel options
 sel1 <- list(
   model = rep("age-specific",2), n_selblocks = 2, #age specific mean selectiviy for fleet and index. constant over years
-  fix_pars = list(NULL,NULL), #above will be estimated
-  initial_pars <- list(
+  initial_pars = list(
     c(0,rep(0.5,3),0.5,0.5,0.5,0.5), #fixed age 5=1
     c(0.5,0.5,0.5,0.5,0.5, 1,0.5,0.5)),
-  map_pars <- list(c(NA,2:5,6,6,6),c(9:13,NA,15,16)),
-  re <- c("2dar1", "none"),
-  fix_pars <- NULL)
+  map_pars = list(c(NA,2:5,6,6,6),c(9:13,NA,15,16)),
+  re = c("2dar1", "none"),
+  fix_pars = NULL)
 
 
 sel2 <- list(
   model = c("age-specific","logistic"), n_selblocks = 2, #age specific mean selectiviy for fleet and index. constant over years
   fix_pars = list(NULL,NULL), #above will be estimated
-  initial_pars <- list(
+  initial_pars = list(
     c(0,rep(0.5,3),0.5,0.5,0.5,0.5), #fixed age 5=1
     c(2,0.2)),
   map_pars <- list(c(NA,2:5,6,6,6),c(9:10)),
-  re <- c("2dar1", "none"),
-  fix_pars <- NULL
+  re = c("2dar1", "none"),
+  fix_pars = NULL
 )
 
 sel3 <- list(
   model = c("age-specific","logistic"), n_selblocks = 2, #age specific mean selectiviy for fleet and index. constant over years
-  fix_pars = list(NULL,NULL), #above will be estimated
-  initial_pars <- list(
+  initial_pars = list(
     c(0,rep(0.5,3),1,0.5,0.5,0.5), #fixed age 5=1
     c(2,0.2)),
-  map_pars <- list(c(NA,2:4,NA,6,6,6),c(9:10)),
-  re <- c("2dar1", "none"),
-  fix_pars <- NULL
+  map_pars = list(c(NA,2:4,NA,6,6,6),c(9:10)),
+  re = c("2dar1", "none"),
+  fix_pars = NULL
 )
 
 
@@ -148,10 +146,18 @@ input <- prepare_wham_input(basic_info = basic_info,
 inputM1 <- set_F(input, F_opts) # this is for sel2. comment out if using sel3
 inputM1 <- set_selectivity(inputM1,sel1)
 inputM1 <- set_NAA(inputM1,NAA_re = NAA1)
-inputM1<- set_M(inputM1, M1) #M1S1N1
+inputM1 <- set_M(inputM1, M1) #M1S1N1
 
-inputM2<- set_M(inputM1, M2) #M2S1N1
+inputM2 <- set_M(inputM1, M2) #M2S1N1
 
+
+inputM3 <- set_selectivity(inputM2,sel2) #M2S2N1
+
+inputM4 <- set_selectivity(input,sel3) #M2S3N1
+inputM4 <- set_NAA(inputM4,NAA_re = NAA1)
+inputM4<- set_M(inputM4, M2)
+
+############################################################
 inputM3<- set_M(inputM1, M3)
 inputM3 <- set_selectivity(inputM3,sel2) #M3S2N1
 
@@ -164,21 +170,23 @@ inputM6 <- set_NAA(inputM4,NAA_re = NAA2)
 inputM6<- set_M(inputM4, M4) #M4S3N2
 
 
-fitM1 <- fit_wham(inputM1, do.retro = FALSE, do.osa = FALSE, do.sdrep = TRUE, do.brps = FALSE)
+fitM1 <- fit_wham(inputM1, do.retro = TRUE, do.osa = FALSE, do.sdrep = TRUE, do.brps = FALSE)
 fitM1$gr(fitM1$opt$par)
 fitM1$final_gradient
 
 
 fitM2 <- update(fitM1,input=inputM2)
-fitM2$gr(fitM2$opt$par)
-fitM2$final_gradient
-
 fitM3 <- update(fitM1,input=inputM3)
 fitM4 <- update(fitM1,input=inputM4)
-fitM4$gr(fitM4$opt$par)
-fitM4$final_gradient
-
 fitM5 <- update(fitM1,input=inputM5)
 fitM6 <- update(fitM1,input=inputM6)
 
+res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4), fdir = "result")
 
+res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4,fitM5,fitM6), fdir = "result")
+plot_wham_output(fitM1)
+plot_wham_output(fitM2)
+plot_wham_output(fitM3)
+plot_wham_output(fitM4)
+plot_wham_output(fitM5)
+plot_wham_output(fitM6)
