@@ -139,6 +139,23 @@ NAA2 <- list(N1_model="equilibrium",
              sigma="rec+1", #1 sigma for rec and 1 sigma for NAA
              cor="2dar1") # cor is for NAA only
 
+NAA3 <- list(N1_model="equilibrium",
+             recruit_model=2,
+             sigma="rec+1", #1 sigma for rec and 1 sigma for NAA
+             cor="2dar1",
+             cor_map=array(c(NA,NA,1),dim=c(1,1,3))) # cor is for NAA only
+
+NAA4 <- list(N1_model="equilibrium",
+             recruit_model=4,
+             sigma="rec+1", #1 sigma for rec and 1 sigma for NAA
+             cor="2dar1",
+             cor_map=array(c(NA,NA,1),dim=c(1,1,3))) # cor is for NAA only
+
+NAA5 <- list(N1_model="equilibrium",
+             recruit_model=4,
+             sigma="rec+1", #1 sigma for rec and 1 sigma for NAA
+             cor="iid") # cor is for NAA only
+
 input <- prepare_wham_input(basic_info = basic_info,
                             catch_info = catch_info,
                             index_info = index_info)
@@ -161,11 +178,18 @@ inputM4<- set_M(inputM4, M2)
 inputM5<- set_M(inputM3, M3)
 inputM6 <- set_M(inputM3,M4)
 inputM7 <- set_NAA(inputM6,NAA_re = NAA2)
+inputM8 <- set_NAA(inputM6,NAA_re = NAA3)
 
+inputM11 <- set_M(inputM4, M4)
+inputM11 <- set_NAA(inputM11,NAA_re = NAA4)
+
+inputM9 <- set_NAA(inputM8,NAA_re = NAA4)
+inputM10 <- set_NAA(inputM9,NAA_re = NAA5)
+
+  
 fitM1 <- fit_wham(inputM1, do.retro = TRUE, do.osa = FALSE, do.sdrep = TRUE, do.brps = FALSE)
 fitM1$gr(fitM1$opt$par)
 fitM1$final_gradient
-
 
 fitM2 <- update(fitM1,input=inputM2)
 fitM3 <- update(fitM1,input=inputM3)
@@ -175,10 +199,20 @@ res <- compare_wham_models(list(fitM1,fitM2), fdir = "result1-2")
 fitM5 <- update(fitM1,input=inputM5)
 fitM6 <- update(fitM1,input=inputM6)
 fitM7 <- update(fitM1,input=inputM7)
+fitM8 <- update(fitM1,input=inputM8)
+fitM9 <- update(fitM1,input=inputM9)
+fitM10 <- update(fitM1,input=inputM10)
+fitM11 <- update(fitM1,input=inputM11)
+check_convergence(fitM11)
+
+rep11 <- fitM11$rep
+nlls <- grep("nll", names(rep11), value = TRUE)
+sapply(nlls, function(x) sum(rep11[[x]]))
+
 
 
 res <- compare_wham_models(list(fitM3,fitM5,fitM6), fdir = "result3-5")
-res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4,fitM5,fitM6,fitM7), fdir = "result1-7")
+res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4,fitM5,fitM6,fitM7,fitM8,fitM9,fitM10), fdir = "result1-7")
 
 res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4,fitM5,fitM6), fdir = "result")
 plot_wham_output(fitM1);file.rename("wham_figures_tables.html","m1.html")
