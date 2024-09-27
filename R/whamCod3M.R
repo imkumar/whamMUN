@@ -122,11 +122,19 @@ sel3 <- list(
   initial_pars = list(
     c(0,rep(0.5,3),1,0.5,0.5,0.5), #fixed age 5=1
     c(2,0.2)),
-  map_pars = list(c(NA,2:4,NA,6,6,6),c(9:10)),
+  map_pars = list(c(NA,NA,3:4,NA,6,6,6),c(9:10)),
   re = c("2dar1", "none"),
   fix_pars = NULL
 )
 
+sel4 <- list(
+  model = c("age-specific","logistic"), n_selblocks = 2, #age specific mean selectiviy for fleet and index. constant over years
+  initial_pars = list(
+    c(0,rep(0.5,3),1,0.5,0.5,0.5), #fixed age 5=1
+    c(2,0.2)),
+  map_pars = list(c(NA,NA,3:4,NA,6,6,6),c(9:10)),
+  re = c("iid", "none"),
+  fix_pars = NULL)
 
 NAA1 <- list(N1_model="equilibrium",
              recruit_model=2,
@@ -154,7 +162,8 @@ NAA4 <- list(N1_model="equilibrium",
 NAA5 <- list(N1_model="equilibrium",
              recruit_model=4,
              sigma="rec+1", #1 sigma for rec and 1 sigma for NAA
-             cor="iid") # cor is for NAA only
+             cor="iid",
+             decouple_recruitment=T) # cor is for NAA only
 
 input <- prepare_wham_input(basic_info = basic_info,
                             catch_info = catch_info,
@@ -180,8 +189,9 @@ inputM6 <- set_M(inputM3,M4)
 inputM7 <- set_NAA(inputM6,NAA_re = NAA2)
 inputM8 <- set_NAA(inputM6,NAA_re = NAA3)
 
-inputM11 <- set_M(inputM4, M4)
-inputM11 <- set_NAA(inputM11,NAA_re = NAA4)
+inputM11 <- set_selectivity(input,sel4) #
+inputM11 <- set_M(inputM11, M4)
+inputM11 <- set_NAA(inputM11,NAA_re = NAA5)
 
 inputM9 <- set_NAA(inputM8,NAA_re = NAA4)
 inputM10 <- set_NAA(inputM9,NAA_re = NAA5)
