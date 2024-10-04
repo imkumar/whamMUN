@@ -41,6 +41,9 @@ use_index_paa <- rowSums(cpa)|>as.matrix(); #same as above for proportion
 index_paa <- array(ipa,dim=c(1,Y,A)); # index proportion at age
 selblock_pointer_indices <- matrix(2,Y,1) #assumed 2 for index selectivity 
 
+# prepare env data
+comp3M <- read.csv('data-raw/composite_3M_1988.csv')
+
 #prepare basic, catch, and index info
 basic_info <- list(
   n_stocks = 1L,
@@ -86,7 +89,8 @@ M1 <- list(initial_MAA = array(0.2, dim = c(1,1,Y,A))) #M constant 0.2
 
 M2 <- list(initial_MAA = array(Maa,dim = c(1,1,Y,A))) #M constant from SCAA
 
-M3 <- list(mean_model="estimate-M",re_model=matrix("ar1_a")) #estimate ar1Md 
+M3 <- list(mean_model="fixed-M",re_model=matrix("2dar1"),
+           initial_means=array(colMeans(Maa[1,1,,]),dim=c(1,1,A))) #estimate ar1Md 
 
 M4 <- list(mean_model="weight-at-age",b_prior=TRUE) #Lorenzen M
 
@@ -196,6 +200,16 @@ inputM11 <- set_NAA(inputM11,NAA_re = NAA5)
 inputM9 <- set_NAA(inputM8,NAA_re = NAA4)
 inputM10 <- set_NAA(inputM9,NAA_re = NAA5)
 
+ecov <- list(
+  label = "comp3M",
+  mean = as.matrix(comp3M$value),
+  logsigma = 'est_1', # estimate obs sigma, 1 value shared across years
+  year = comp3M$year,
+  use_obs = matrix(1, ncol=1, nrow=dim(comp3M)[1]), # use all obs (=1)
+  process_model = 'ar1', # "rw" or "ar1"
+  recruitment_how = matrix("controlling-lag-0-linear")) # n_Ecov x n_stocks
+
+input12 <- set_ecov(inputM9, ecov)
   
 fitM1 <- fit_wham(inputM1, do.retro = TRUE, do.osa = FALSE, do.sdrep = TRUE, do.brps = FALSE)
 fitM1$gr(fitM1$opt$par)
@@ -213,7 +227,9 @@ fitM8 <- update(fitM1,input=inputM8)
 fitM9 <- update(fitM1,input=inputM9)
 fitM10 <- update(fitM1,input=inputM10)
 fitM11 <- update(fitM1,input=inputM11)
-check_convergence(fitM11)
+check_convergence(fitM12)
+fitM12 <- update(fitM1,input=input12)
+
 
 rep11 <- fitM11$rep
 nlls <- grep("nll", names(rep11), value = TRUE)
@@ -222,7 +238,7 @@ sapply(nlls, function(x) sum(rep11[[x]]))
 
 
 res <- compare_wham_models(list(fitM3,fitM5,fitM6), fdir = "result3-5")
-res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4,fitM5,fitM6,fitM7,fitM8,fitM9,fitM10), fdir = "result1-7")
+res <- compare_wham_models(list(fitM7,fitM8,fitM9,fitM10), fdir = "result1-11")
 
 res <- compare_wham_models(list(fitM1,fitM2,fitM3,fitM4,fitM5,fitM6), fdir = "result")
 plot_wham_output(fitM1);file.rename("wham_figures_tables.html","m1.html")
@@ -234,4 +250,7 @@ plot_wham_output(fitM5);file.rename("wham_figures_tables.html","m5.html")
 plot_wham_output(fitM6);file.rename("wham_figures_tables.html","m6.html")
 plot_wham_output(fitM7);file.rename("wham_figures_tables.html","m7.html")
 plot_wham_output(fitM8);file.rename("wham_figures_tables.html","m8.html")
-
+plot_wham_output(fitM9);file.rename("wham_figures_tables.html","m9.html")
+plot_wham_output(fitM10);file.rename("wham_figures_tables.html","m10.html")
+plot_wham_output(fitM11);file.rename("wham_figures_tables.html","m11.html")
+plot_wham_output(fitM12);file.rename("wham_figures_tables.html","m12.html")
